@@ -82,10 +82,10 @@ LNbits will be going V1 in Q4 2024. This would not ave been possible without the
 #### lnbits-extensions 
 * feat: max_lnbits_version for older releases by @dni in https://github.com/lnbits/lnbits-extensions/pull/397
 * Reviews:
-- nostrnip05 ext https://github.com/lnbits/lnbits-extensions/pull/398
-- Boltz ext https://github.com/lnbits/lnbits-extensions/pull/396
-- Boltz ext https://github.com/lnbits/lnbits-extensions/pull/394
-- Discordbot ext https://github.com/lnbits/lnbits-extensions/pull/393
+    - nostrnip05 ext https://github.com/lnbits/lnbits-extensions/pull/398
+    - Boltz ext https://github.com/lnbits/lnbits-extensions/pull/396
+    - Boltz ext https://github.com/lnbits/lnbits-extensions/pull/394
+    - Discordbot ext https://github.com/lnbits/lnbits-extensions/pull/393
 #### Content
 * LNbits overview videos by @arcbtc https://www.youtube.com/watch?v=b7Ou7XtqtRI, https://www.youtube.com/watch?v=ymq_BXN4lu0, https://www.youtube.com/watch?v=LMs4bFrvy_Y, https://www.youtube.com/watch?v=b1a5XshX5dA
 
@@ -127,12 +127,12 @@ LNbits will be going V1 in Q4 2024. This would not ave been possible without the
 * Change featured by @dni in https://github.com/lnbits/lnbits-extensions/pull/376
 * Remove market ext by @arcbtc in https://github.com/lnbits/lnbits-extensions/pull/355
 * Reviews:
-- lndhub ext https://github.com/lnbits/lnbits-extensions/pull/389
-- Withdraw ext https://github.com/lnbits/lnbits-extensions/pull/388
-- Withdraw ext https://github.com/lnbits/lnbits-extensions/pull/385
-- LNcalendar ext https://github.com/lnbits/lnbits-extensions/pull/384
-- Boltz ext https://github.com/lnbits/lnbits-extensions/pull/380, https://github.com/lnbits/lnbits-extensions/pull/378, https://github.com/lnbits/lnbits-extensions/pull/373, https://github.com/lnbits/lnbits-extensions/pull/391
-- Nostrnip05 ext https://github.com/lnbits/lnbits-extensions/pull/372
+    - lndhub ext https://github.com/lnbits/lnbits-extensions/pull/389
+    - Withdraw ext https://github.com/lnbits/lnbits-extensions/pull/388
+    - Withdraw ext https://github.com/lnbits/lnbits-extensions/pull/385
+    - LNcalendar ext https://github.com/lnbits/lnbits-extensions/pull/384
+    - Boltz ext https://github.com/lnbits/lnbits-extensions/pull/380, https://github.com/lnbits/lnbits-extensions/pull/378, https://github.com/lnbits/lnbits-extensions/pull/373, https://github.com/lnbits/lnbits-extensions/pull/391
+    - Nostrnip05 ext https://github.com/lnbits/lnbits-extensions/pull/372
 
 ## June
 #### LNbits Core
