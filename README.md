@@ -2,4 +2,4 @@
 
 LNbits is supported by OpenSats (for which we are very grateful 🙏), and as such we are required to create quarterly reports of how we have allocated the grant. 
 
-In the spirit of FOSS, these reports should be public.
+In the spirit of FOSS, these reports should be public 🚀
