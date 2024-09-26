@@ -1,6 +1,6 @@
 # LNbits OpenSats Grant June - August
 
-LNbits will be going V1 in Q5 2024. This would not ave been possible without the support from OpenSats❤️.
+LNbits will be going V1 in Q4 2024. This would not ave been possible without the support from OpenSats❤️.
 
 ## June
 #### LNbits Core
