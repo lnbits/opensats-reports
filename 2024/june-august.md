@@ -2,8 +2,6 @@
 
 LNbits will be going V1 in Q5 2024. This would not ave been possible without the support from OpenSats❤️.
 
-LNbits has a thriving community that is supported in our repos and on our channels t.me/lnbits, t.me/makerbits, t.me/nostrmarket. A good amount or resources go into offering support through those channels, which is slightly less quantifiable.
-
 ## June
 #### LNbits Core
 * Nice formatting of funding source titles in Server admin by @blackcoffeexbt in https://github.com/lnbits/lnbits/pull/2543
@@ -100,4 +98,4 @@ Reviews:
 #### Content
 * LNbits overview videos by @arcbtc https://www.youtube.com/watch?v=b7Ou7XtqtRI, https://www.youtube.com/watch?v=ymq_BXN4lu0, https://www.youtube.com/watch?v=LMs4bFrvy_Y, https://www.youtube.com/watch?v=b1a5XshX5dA
 ## Additional
-General daily support for repo issues in LNbits, extensions, hardware
+General daily support for repo issues in LNbits, extensions, hardware, as well as support in the telegram groups t.me/lnbits, t.me/makerbits, t.me/nostrmarkets
