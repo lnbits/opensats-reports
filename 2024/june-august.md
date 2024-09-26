@@ -4,11 +4,12 @@ LNbits will be going V1 in Q4 2024. This would not ave been possible without the
 
 ## June
 #### LNbits Core
-* Nice formatting of funding source titles in Server admin by @blackcoffeexbt in https://github.com/lnbits/lnbits/pull/2543
-* Fix typo of "LNbits" in list of funding sources. by @blackcoffeexbt in https://github.com/lnbits/lnbits/pull/2546
-* fix: npm packages with high severity issue by @dni in https://github.com/lnbits/lnbits/pull/2551
 * [feat] Extension details page by @motorina0 in https://github.com/lnbits/lnbits/pull/2544
-* chore: prepare for `0.12.9` by @dni in https://github.com/lnbits/lnbits/pull/2555
+* [fix]: npm packages with high severity issue by @dni in https://github.com/lnbits/lnbits/pull/2551
+* [feat] Nice formatting of funding source titles in Server admin by @blackcoffeexbt in https://github.com/lnbits/lnbits/pull/2543
+* [fix] typo of "LNbits" in list of funding sources. by @blackcoffeexbt in https://github.com/lnbits/lnbits/pull/2546
+* [chore] prepare for `0.12.9` by @dni in https://github.com/lnbits/lnbits/pull/2555
+  
 #### Boltz ext
 * Added extended description by @arcbtc in https://github.com/lnbits/boltz/pull/31
 * feat: codequality, linters and ci by @dni in https://github.com/lnbits/boltz/pull/32
