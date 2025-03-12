@@ -2,6 +2,8 @@
 
 LNbits is almost at v1. This would not have been possible without the support from OpenSats❤️.
 
+Highlights for the added features we were able to add thanks to OpenSats are here:
+
 <a href="https://www.youtube.com/watch?v=PFAHKxvgI9Y"><img width="300" src="https://github.com/user-attachments/assets/0087cbad-7ba2-461e-9d81-b7de805078aa"></a>
 
 ## LNbits core
