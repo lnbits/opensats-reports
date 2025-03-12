@@ -2,6 +2,8 @@
 
 LNbits is almost at v1. This would not have been possible without the support from OpenSats❤️.
 
+https://www.youtube.com/watch?v=LCPt4bkHT7g
+
 ## LNbits core
 #### Dec 2024
 * [feat] install extensions from dir by @motorina0 in https://github.com/lnbits/lnbits/pull/2781
