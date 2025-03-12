@@ -6,7 +6,7 @@ LNbits is almost at v1.
 
 <a href="https://www.youtube.com/watch?v=PFAHKxvgI9Y"><img width="300" src="https://github.com/user-attachments/assets/0087cbad-7ba2-461e-9d81-b7de805078aa"></a>
 
-With so many projects using LNbits in their stacks to bootstrap, the security tools and server management tools we were able to add for v1 are so important.
+With so many projects using LNbits in their stacks to bootstrap, the security tools and server management tools we were able to add for v1 are so very important.
 
 Thank you from all of us 🙏
 
