@@ -144,14 +144,40 @@ LNbits is almost at v1. This would not have been possible without the support fr
 
 
 
-#### Extensions updated for v1 between Dec 2024 - Feb 2025
-https://github.com/lnbits/fossa_extension/commits?since=2024-12-01&until=2025-02-28
-https://github.com/lnbits/nwcprovider/commits?since=2024-12-01&until=2025-02-28
+#### Extension commits between Dec 2024 - Feb 2025 (mostly preparing for v1)
+* https://github.com/lnbits/fossa_extension/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/nwcprovider/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/bitcoinswitch_extension/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/splitpayments/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/jukebox/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/boltcards/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/nostrnip5/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/example/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/myextension/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/copilot/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/raisenow/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/where39/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/offlineshop/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/lncalendar/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/livestream/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/gerty/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/pay2print/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/streamalerts/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/bleskomat/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/scrub/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/nostrclient/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/withdraw/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/invoices/commits?since=2024-12-01&until=2025-02-28
 
-#### Content 
-* Extension building tutorial by @arcbtc https://www.youtube.com/watch?v=zHXLvvjClHI
-* Poweruser videos by @arcbtc https://www.youtube.com/watch?v=oiXMADI1nmM, https://www.youtube.com/watch?v=a6bimcQC2pw, https://www.youtube.com/watch?v=5eFATj2vFP8, https://www.youtube.com/watch?v=46aHKk8cLfg
+#### New extension
+https://github.com/lnbits/sellcoins
+
+#### Content
+* 5 years of contributions https://www.youtube.com/watch?v=LCPt4bkHT7g
+* v1 overview https://www.youtube.com/watch?v=LCPt4bkHT7g
+* LNbits install tut by @arcbtc https://github.com/lnbits/appimage_phoenixd_install, https://www.youtube.com/watch?v=ljqXSxXnYxc
+* LNbits server notification demo https://www.youtube.com/watch?v=5eFATj2vFP8
+* Where39 demo https://www.youtube.com/watch?v=p8aIhwqFtTQ
+
 #### General expenses
-* Ben Arc, DNI, Vlad Stand trip to BTCPrague
-## Additional
-General daily support for repo issues in LNbits, extensions, hardware, as well as support in the telegram groups https://t.me/lnbits, https://t.me/makerbits, https://t.me/nostrmarkets
+* DNI general expenses in El Sal for workshops & assisting Planb
