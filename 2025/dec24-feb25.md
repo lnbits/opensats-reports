@@ -1,6 +1,6 @@
 # LNbits OpenSats Grant December 2024 - Febuary 2025
 
-LNbits is almost at v1. This would not have been possible without the support from OpenSats❤️.
+LNbits is almost at v1.
 
 👇 Video of features we were able to add to LNbits v1 thanks to >_OpenSats.
 
