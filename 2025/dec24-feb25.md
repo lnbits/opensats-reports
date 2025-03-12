@@ -1,4 +1,4 @@
-# <span style="color:purple">⚡</span>LNbits  >_OpenSats Grant December 2024 - Febuary 2025
+# LNbits  >_OpenSats Grant December 2024 - Febuary 2025
 
 LNbits is almost at v1.
 
