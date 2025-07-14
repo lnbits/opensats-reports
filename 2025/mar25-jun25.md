@@ -1,4 +1,4 @@
-# LNbits  >_OpenSats Grant March 2025 - June 2025
+# LNbits  >_OpenSats Grant March 2025 - May 2025
 
 Post-V1 and beyond 🚀
 
