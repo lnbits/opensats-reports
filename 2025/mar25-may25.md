@@ -130,7 +130,7 @@ All possible thanks to OpwenSats. Thank you from all of us, devs & users in LNbi
 * https://github.com/lnbits/invoices/commits?since=2025-03-01&until=2025-05-28
 
 #### New extension
-https://github.com/lnbits/sellcoins
+[https://github.com/lnbits/sellcoins](https://github.com/lnbits/nwcprovider)
 
 #### Content
 * 5 years of contributions https://www.youtube.com/watch?v=LCPt4bkHT7g
