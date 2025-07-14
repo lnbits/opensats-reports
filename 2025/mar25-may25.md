@@ -136,11 +136,13 @@ Thank you from all of us LNbits devs and users ❤️
 * https://github.com/lnbits/satspot
 * https://github.com/lnbits/auction_house
 
-#### Other
+#### Hardware
 * https://github.com/lnbits/hardware-installer/commits?since=2025-03-01&until=2025-05-31
-* https://github.com/lnbits/lnbits-bitcoin-onchain-and-lightning-payment-gateway/commits?since=2025-03-01&until=2025-05-31
 * https://github.com/lnbits/nostr-signing-device/commits?since=2025-03-01&until=2025-05-31
 * https://github.com/lnbits/remote-nostr-signer-configurator/commits?since=2025-03-01&until=2025-05-31
+
+#### Other
+* https://github.com/lnbits/lnbits-bitcoin-onchain-and-lightning-payment-gateway/commits?since=2025-03-01&until=2025-05-31
 
 #### General expenses
 * DNI general expenses in Prague for workshops & assisting Planb
