@@ -105,12 +105,12 @@ Thank you from all of us LNbits devs and users ❤️
 <a href="https://github.com/lnbits/lnbits/commit/c5964436">c5964436</a> 2025-03-03 | dni ⚡ | fix: python versions were defined incorrectly and remove 3.9 (#3006)</br>
 
 #### Extension commits between Mar 2025 - May 2025
-* https://github.com/lnbits/fossa_extension/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/nwcprovider/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/bitcoinswitch_extension/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/boltcards/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/nostrnip5/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/lncalendar/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/fossa_extension/commits?since=2025-03-01&until=2025-05-31
+* https://github.com/lnbits/nwcprovider/commits?since=2025-03-01&until=2025-05-31
+* https://github.com/lnbits/bitcoinswitch_extension/commits?since=2025-03-01&until=2025-05-31
+* https://github.com/lnbits/boltcards/commits?since=2025-03-01&until=2025-05-31
+* https://github.com/lnbits/nostrnip5/commits?since=2025-03-01&until=2025-05-31
+* https://github.com/lnbits/lncalendar/commits?since=2025-03-01&until=2025-05-31
 
 #### New extensions
 * https://github.com/lnbits/nwcprovider
