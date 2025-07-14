@@ -39,6 +39,8 @@ Thank you from all of us LNbits devs and users ❤️
 <a href="https://github.com/lnbits/lnbits/commit/3529f915">3529f915</a> 2025-05-05 | Vlad Stan | fix: better differentiation between UNAUTHORIZED and FORBIDDEN (#3139)</br>
 <a href="https://github.com/lnbits/lnbits/commit/6a9089fd">6a9089fd</a> 2025-05-05 | dni ⚡ | fix: lnd/lndrest failed canceled/expired invoices (#3143)</br>
 <a href="https://github.com/lnbits/lnbits/commit/a38de94e">a38de94e</a> 2025-05-02 | dni ⚡ | chore: update to v1.0.1 (#3137)</br>
+
+
 <a href="https://github.com/lnbits/lnbits/commit/32cbf16d">32cbf16d</a> 2025-04-30 | Vlad Stan | fix: _bcrypt.__about__.__version__ log warning (#3136)</br>
 <a href="https://github.com/lnbits/lnbits/commit/c4d0540e">c4d0540e</a> 2025-04-30 | dni ⚡ | feat: preimages for incoming payments, fundingsource saves preimage on create_invoice  (#3085)</br>
 <a href="https://github.com/lnbits/lnbits/commit/f8b36440">f8b36440</a> 2025-04-29 | Vlad Stan | fix: auto redirect to home page when 401 (#3131)</br>
@@ -68,6 +70,8 @@ Thank you from all of us LNbits devs and users ❤️
 <a href="https://github.com/lnbits/lnbits/commit/6834b5e0">6834b5e0</a> 2025-04-01 | Vlad Stan | feat: do not allow regular admins to edit super user (#3077)</br>
 <a href="https://github.com/lnbits/lnbits/commit/10093bb4">10093bb4</a> 2025-04-01 | Vlad Stan | feat: show wallet payments on search (#3076)</br>
 <a href="https://github.com/lnbits/lnbits/commit/1323a200">1323a200</a> 2025-04-01 | dni ⚡ | feat: cleanup on library dir creation and upload endpoints (#3069)</br>
+
+
 <a href="https://github.com/lnbits/lnbits/commit/bafb4ddf">bafb4ddf</a> 2025-03-31 | Vlad Stan | fix: allow admin to view payments in deleted wallets (#3074)</br>
 <a href="https://github.com/lnbits/lnbits/commit/aa050eaf">aa050eaf</a> 2025-03-31 | Vlad Stan | fix: make parallel calls for exchages (#3073)</br>
 <a href="https://github.com/lnbits/lnbits/commit/0c76efa2">0c76efa2</a> 2025-03-31 | Arc | Add ws link to curl examples (#3063)</br>
