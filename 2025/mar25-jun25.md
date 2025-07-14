@@ -8,7 +8,7 @@ Post-V1 and beyond 🚀
 
 Post-V1 is an exciting time for us - core is stable - so we get to work through the backlog of features and give all the extensions a little TLC.
 
-Thank you from all of us 🙏
+All possible thanks to OpwenSats. Thank you from all of us in LNbitsLand ❤️
 
 ## LNbits core
 #### Dec 2024
