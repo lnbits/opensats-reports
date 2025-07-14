@@ -119,10 +119,26 @@ Thank you from all of us LNbits devs and users ❤️
 * https://github.com/lnbits/boltcards/commits?since=2025-03-01&until=2025-05-31
 * https://github.com/lnbits/nostrnip5/commits?since=2025-03-01&until=2025-05-31
 * https://github.com/lnbits/lncalendar/commits?since=2025-03-01&until=2025-05-31
+* https://github.com/lnbits/satsdice/commits?since=2025-03-01&until=2025-05-31
+* https://github.com/lnbits/satspot/commits?since=2025-03-01&until=2025-05-31
+* https://github.com/lnbits/coinflip/commits?since=2025-03-01&until=2025-05-31
+* https://github.com/lnbits/nostrnip5/commits?since=2025-03-01&until=2025-05-31
+* https://github.com/lnbits/bitcoinswitch_extension/commits?since=2025-03-01&until=2025-05-31
+* https://github.com/lnbits/withdraw/commits?since=2025-03-01&until=2025-05-31
+* https://github.com/lnbits/lndhub/commits?since=2025-03-01&until=2025-05-31
+* https://github.com/lnbits/numbers/commits?since=2025-03-01&until=2025-05-31
+* https://github.com/lnbits/eightball/commits?since=2025-03-01&until=2025-05-31
+* https://github.com/lnbits/lnurlp/commits?since=2025-03-01&until=2025-05-31
 
 #### New extensions
 * https://github.com/lnbits/nwcprovider
 * https://github.com/lnbits/auction_house
+
+#### Other
+* https://github.com/lnbits/hardware-installer/commits?since=2025-03-01&until=2025-05-31
+* https://github.com/lnbits/lnbits-bitcoin-onchain-and-lightning-payment-gateway/commits?since=2025-03-01&until=2025-05-31
+* https://github.com/lnbits/nostr-signing-device/commits?since=2025-03-01&until=2025-05-31
+* https://github.com/lnbits/remote-nostr-signer-configurator/commits?since=2025-03-01&until=2025-05-31
 
 #### General expenses
 * DNI general expenses in Prague for workshops & assisting Planb
