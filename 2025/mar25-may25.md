@@ -112,7 +112,7 @@ Thank you from all of us LNbits devs and users ❤️
 <a href="https://github.com/lnbits/lnbits/commit/fe9b62e8">fe9b62e8</a> 2025-03-03 | Tiago Vasconcelos | Fix: don't show register if new users not allowed (#3010)</br>
 <a href="https://github.com/lnbits/lnbits/commit/c5964436">c5964436</a> 2025-03-03 | dni ⚡ | fix: python versions were defined incorrectly and remove 3.9 (#3006)</br>
 
-#### Extension commits between Mar 2025 - May 2025
+## Extension commits between Mar 2025 - May 2025
 * https://github.com/lnbits/fossa_extension/commits?since=2025-03-01&until=2025-05-31
 * https://github.com/lnbits/nwcprovider/commits?since=2025-03-01&until=2025-05-31
 * https://github.com/lnbits/bitcoinswitch_extension/commits?since=2025-03-01&until=2025-05-31
@@ -130,19 +130,19 @@ Thank you from all of us LNbits devs and users ❤️
 * https://github.com/lnbits/eightball/commits?since=2025-03-01&until=2025-05-31
 * https://github.com/lnbits/lnurlp/commits?since=2025-03-01&until=2025-05-31
 
-#### New extensions
+## New extensions
 * https://github.com/lnbits/nwcprovider
 * https://github.com/lnbits/numbers
 * https://github.com/lnbits/satspot
 * https://github.com/lnbits/auction_house
 
-#### Hardware
+## Hardware
 * https://github.com/lnbits/hardware-installer/commits?since=2025-03-01&until=2025-05-31
 * https://github.com/lnbits/nostr-signing-device/commits?since=2025-03-01&until=2025-05-31
 * https://github.com/lnbits/remote-nostr-signer-configurator/commits?since=2025-03-01&until=2025-05-31
 
-#### Other
+## Other
 * https://github.com/lnbits/lnbits-bitcoin-onchain-and-lightning-payment-gateway/commits?since=2025-03-01&until=2025-05-31
 
-#### General expenses
+## General expenses
 * DNI general expenses in Prague for workshops & assisting Planb
