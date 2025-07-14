@@ -8,10 +8,10 @@ Post-V1 and beyond 🚀
 
 Post-V1 is an exciting time for us - core is stable - so we get to work through the backlog of features and give all the extensions a little TLC.
 
-All possible thanks to OpwenSats. Thank you from all of us in LNbitsLand ❤️
+All possible thanks to OpwenSats. Thank you from all of us, devs & users in LNbitsLand ❤️
 
 ## LNbits core
-#### Dec 2024
+#### March 2025
 * [feat] install extensions from dir by @motorina0 in https://github.com/lnbits/lnbits/pull/2781
 * chore: update to v1.0.0-rc6 by @dni in https://github.com/lnbits/lnbits/pull/2784
 * chore: add type to migration by @dni in https://github.com/lnbits/lnbits/pull/2788
