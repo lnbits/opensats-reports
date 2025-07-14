@@ -2,7 +2,7 @@
 
 Post-V1 is an exciting time for us - core is stable - so we get to work through the backlog of features and give all the extensions a little TLC.
 
-All possible thanks to OpwenSats. Thank you from all of us, devs & users in LNbitsLand ❤️
+All possible thanks to OpenSats. Thank you from all of us devs and users in LNbitsLand ❤️
 
 ## Educational stuff
 
