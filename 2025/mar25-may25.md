@@ -1,14 +1,12 @@
 # LNbits  >_OpenSats Grant March 2025 - May 2025
 
-Post-V1 and beyond 🚀
-
-👇 Some new videos thanks to >_OpenSats.
-
-<span title="Remote signer"><a href="https://www.youtube.com/watch?v=16T_Psc8Qn4"><img width="300" src="https://github.com/user-attachments/assets/3ff9b24a-439c-4077-a223-3ea62e4845bf"></a></span>   <span title="R"><a href="https://www.youtube.com/watch?v=e8VXjp83sdc"><img width="300" src="https://github.com/user-attachments/assets/bbaa4bf3-efa4-4b56-bce8-bec9a2336c09"></a>   <a href="https://www.youtube.com/watch?v=QDwNgHz8v7M"><img width="300" src="https://github.com/user-attachments/assets/cf4bb01e-2df9-411b-8060-2c91e6f7df74"></a>
-
 Post-V1 is an exciting time for us - core is stable - so we get to work through the backlog of features and give all the extensions a little TLC.
 
 All possible thanks to OpwenSats. Thank you from all of us, devs & users in LNbitsLand ❤️
+
+## Educational stuff
+
+<span title="v1 LNbits: Setting the global theme"><a href="https://www.youtube.com/watch?v=LD7cMX1FTbs"><img width="200" src="https://github.com/user-attachments/assets/cf576159-fb3e-4d63-99c1-1d7ea6e87125"></a></span>   <span title="v1 LNbits: Turn your LNbits into a business!"><a href="https://www.youtube.com/watch?v=1w6qZ2heAYs"><img width="200" src="https://github.com/user-attachments/assets/1d430463-1ad8-4158-816f-1399ec3d4697"></a></span>   <span title="LNCalendar Extension, sell you time for bitcoin!"><a href="https://www.youtube.com/watch?v=e8VXjp83sdc"><img width="200" src="https://github.com/user-attachments/assets/1de062fc-0b72-4845-8b2e-cce1d3bf16c7"></a></span>   <span title="Building on LNbits: User Area API 🛠️🚀"><a href="https://www.youtube.com/watch?v=QDwNgHz8v7M"><img width="200" src="https://github.com/user-attachments/assets/61d92cea-7290-438b-87bb-32791b992752"></a></span>
 
 ## LNbits core
 
