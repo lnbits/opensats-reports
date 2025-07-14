@@ -111,8 +111,8 @@ All possible thanks to OpenSats. Thank you from all of us devs and users in LNbi
 * https://github.com/lnbits/lncalendar/commits?since=2025-03-01&until=2025-05-28
 
 #### New extension
-https://github.com/lnbits/nwcprovider
-https://github.com/lnbits/auction_house
+* https://github.com/lnbits/nwcprovider
+* https://github.com/lnbits/auction_house
 
 #### General expenses
 * DNI general expenses in Prague for workshops & assisting Planb
