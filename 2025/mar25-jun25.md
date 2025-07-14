@@ -25,7 +25,6 @@ All possible thanks to OpwenSats. Thank you from all of us, devs & users in LNbi
 - [`efc52333`](https://github.com/lnbits/lnbits/commit/efc52333991d71a57d57aeda636c1e7bc64923cc) fix: frontend scroll area on admin settings (#3162) – [@Arc](https://github.com/Arc)
 - [`e4d09c6d`](https://github.com/lnbits/lnbits/commit/e4d09c6d12533172ed0eda0ca0653b899c2184ce) docs: passing vars to appimage (#3164) – [@Arc](https://github.com/Arc)
 - [`7d0545da`](https://github.com/lnbits/lnbits/commit/7d0545dae126f22b221b7a6eecf324ec2381d44a) [fix] timezone for payment list (#3165) – [@Vlad Stan](https://github.com/Vlad Stan)
-- [`00fccf51`](https://github.com/lnbits/lnbits/commit/00fccf513ec873852758b1d9801a3bd1c3135085) feat: Add Strike Wallet Integration (#3150) – [@Sat](https://github.com/Sat)
 - [`34b8490a`](https://github.com/lnbits/lnbits/commit/34b8490a2d1b23060abee13085269791cee4f326) test: conftest smaller funding amounts (#3167) – [@dni ⚡](https://github.com/dni ⚡)
 - [`cbbba5c4`](https://github.com/lnbits/lnbits/commit/cbbba5c4c75f0b8d86d13dc50818c0d26515261e) fix: regtest nodemanager lndrest issue (#3166) – [@dni ⚡](https://github.com/dni ⚡)
 - [`4a0ef7fa`](https://github.com/lnbits/lnbits/commit/4a0ef7fa1af420ed4d118ffc2c90174146a126b1) feat: add ssl proxy settings to docker and `.env.example` (#3161) – [@dni ⚡](https://github.com/dni ⚡)
