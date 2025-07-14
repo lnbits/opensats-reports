@@ -104,40 +104,17 @@ All possible thanks to OpwenSats. Thank you from all of us, devs & users in LNbi
 <a href="https://github.com/lnbits/lnbits/commit/fe9b62e8">fe9b62e8</a> 2025-03-03 | Tiago Vasconcelos | Fix: don't show register if new users not allowed (#3010)</br>
 <a href="https://github.com/lnbits/lnbits/commit/c5964436">c5964436</a> 2025-03-03 | dni ⚡ | fix: python versions were defined incorrectly and remove 3.9 (#3006)</br>
 
-#### Extension commits between Dec 2024 - Feb 2025 (mostly preparing for v1)
+#### Extension commits between Mar 2025 - May 2025
 * https://github.com/lnbits/fossa_extension/commits?since=2025-03-01&until=2025-05-28
 * https://github.com/lnbits/nwcprovider/commits?since=2025-03-01&until=2025-05-28
 * https://github.com/lnbits/bitcoinswitch_extension/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/splitpayments/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/jukebox/commits?since=2025-03-01&until=2025-05-28
 * https://github.com/lnbits/boltcards/commits?since=2025-03-01&until=2025-05-28
 * https://github.com/lnbits/nostrnip5/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/example/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/myextension/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/copilot/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/raisenow/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/where39/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/offlineshop/commits?since=2025-03-01&until=2025-05-28
 * https://github.com/lnbits/lncalendar/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/livestream/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/gerty/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/pay2print/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/streamalerts/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/bleskomat/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/scrub/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/nostrclient/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/withdraw/commits?since=2025-03-01&until=2025-05-28
-* https://github.com/lnbits/invoices/commits?since=2025-03-01&until=2025-05-28
 
 #### New extension
-[https://github.com/lnbits/sellcoins](https://github.com/lnbits/nwcprovider)
-
-#### Content
-* 5 years of contributions https://www.youtube.com/watch?v=LCPt4bkHT7g
-* v1 overview https://www.youtube.com/watch?v=LCPt4bkHT7g
-* LNbits install tut by @arcbtc https://github.com/lnbits/appimage_phoenixd_install, https://www.youtube.com/watch?v=ljqXSxXnYxc
-* LNbits server notification demo https://www.youtube.com/watch?v=5eFATj2vFP8
-* Where39 demo https://www.youtube.com/watch?v=p8aIhwqFtTQ
+https://github.com/lnbits/nwcprovider
+https://github.com/lnbits/auction_house
 
 #### General expenses
-* DNI general expenses in El Sal for workshops & assisting Planb
+* DNI general expenses in Prague for workshops & assisting Planb
