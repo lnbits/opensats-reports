@@ -1,8 +1,8 @@
 # LNbits  >_OpenSats Grant March 2025 - May 2025
 
-Post-V1 is an exciting time for us - core is stable - so we get to work through the backlog of features and give all the extensions a little TLC.
+Post-V1 is an exciting time for us—core is stable—so we can finally work through the backlog of features and give all the extensions some much-needed TLC. It all coincides nicely with a growing interest in accepting Bitcoin payments 🚀
 
-All possible thanks to OpenSats. Thank you from all of us devs and users in LNbitsLand ❤️
+All possible thanks to OpenSats. Thank you from all of us LNbits devs and users ❤️
 
 ## Educational stuff
 
