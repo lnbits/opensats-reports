@@ -132,6 +132,8 @@ Thank you from all of us LNbits devs and users ❤️
 
 #### New extensions
 * https://github.com/lnbits/nwcprovider
+* https://github.com/lnbits/numbers
+* https://github.com/lnbits/satspot
 * https://github.com/lnbits/auction_house
 
 #### Other
