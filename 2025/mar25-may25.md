@@ -37,29 +37,29 @@ All possible thanks to OpwenSats. Thank you from all of us, devs & users in LNbi
 
 
 #### Extension commits between Dec 2024 - Feb 2025 (mostly preparing for v1)
-* https://github.com/lnbits/fossa_extension/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/nwcprovider/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/bitcoinswitch_extension/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/splitpayments/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/jukebox/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/boltcards/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/nostrnip5/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/example/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/myextension/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/copilot/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/raisenow/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/where39/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/offlineshop/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/lncalendar/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/livestream/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/gerty/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/pay2print/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/streamalerts/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/bleskomat/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/scrub/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/nostrclient/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/withdraw/commits?since=2024-12-01&until=2025-02-28
-* https://github.com/lnbits/invoices/commits?since=2024-12-01&until=2025-02-28
+* https://github.com/lnbits/fossa_extension/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/nwcprovider/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/bitcoinswitch_extension/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/splitpayments/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/jukebox/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/boltcards/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/nostrnip5/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/example/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/myextension/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/copilot/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/raisenow/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/where39/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/offlineshop/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/lncalendar/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/livestream/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/gerty/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/pay2print/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/streamalerts/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/bleskomat/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/scrub/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/nostrclient/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/withdraw/commits?since=2025-03-01&until=2025-05-28
+* https://github.com/lnbits/invoices/commits?since=2025-03-01&until=2025-05-28
 
 #### New extension
 https://github.com/lnbits/sellcoins
