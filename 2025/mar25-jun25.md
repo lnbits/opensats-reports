@@ -4,13 +4,11 @@ Post-V1 and beyond 🚀
 
 👇 Some new videos thanks to >_OpenSats.
 
-https://www.youtube.com/watch?v=e8VXjp83sdc
+<a href="https://www.youtube.com/watch?v=16T_Psc8Qn4"><img width="300" src="https://github.com/user-attachments/assets/c5fa20f5-ac63-4f86-a9d7-9eb24e2d9cd4"></a>
 
+<a href="https://www.youtube.com/watch?v=e8VXjp83sdc"><img width="300" src="https://github.com/user-attachments/assets/bbaa4bf3-efa4-4b56-bce8-bec9a2336c09"></a>
 
-
-<a href="https://www.youtube.com/watch?v=PFAHKxvgI9Y"><img width="300" src="https://github.com/user-attachments/assets/0087cbad-7ba2-461e-9d81-b7de805078aa"></a>
-
-<a href="https://www.youtube.com/watch?v=PFAHKxvgI9Y"><img width="300" src="https://github.com/user-attachments/assets/0087cbad-7ba2-461e-9d81-b7de805078aa"></a>
+<a href="https://www.youtube.com/watch?v=QDwNgHz8v7M"><img width="300" src="https://github.com/user-attachments/assets/cf4bb01e-2df9-411b-8060-2c91e6f7df74"></a>
 
 With so many projects using LNbits in their stacks to bootstrap, the security tools and server management tools we were able to add for v1 are so very important.
 
