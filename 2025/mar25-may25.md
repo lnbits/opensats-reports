@@ -12,7 +12,7 @@ Thank you from all of us LNbits devs and users ❤️
 
 ## LNbits core
 
-### May 2025
+#### May 2025
 
 <a href="https://github.com/lnbits/lnbits/commit/77906bc8">77906bc8</a> 2025-05-30 | dni ⚡ | feat: more verbose aes decrypt function (#3177)</br>
 <a href="https://github.com/lnbits/lnbits/commit/63e72871">63e72871</a> 2025-05-30 | Vlad Stan | fix: accept soft deleted wallets (#3179)</br>
@@ -42,7 +42,7 @@ Thank you from all of us LNbits devs and users ❤️
 <a href="https://github.com/lnbits/lnbits/commit/6a9089fd">6a9089fd</a> 2025-05-05 | dni ⚡ | fix: lnd/lndrest failed canceled/expired invoices (#3143)</br>
 <a href="https://github.com/lnbits/lnbits/commit/a38de94e">a38de94e</a> 2025-05-02 | dni ⚡ | chore: update to v1.0.1 (#3137)</br>
 
-### April 2025
+#### April 2025
 
 <a href="https://github.com/lnbits/lnbits/commit/32cbf16d">32cbf16d</a> 2025-04-30 | Vlad Stan | fix: _bcrypt.__about__.__version__ log warning (#3136)</br>
 <a href="https://github.com/lnbits/lnbits/commit/c4d0540e">c4d0540e</a> 2025-04-30 | dni ⚡ | feat: preimages for incoming payments, fundingsource saves preimage on create_invoice  (#3085)</br>
@@ -74,7 +74,7 @@ Thank you from all of us LNbits devs and users ❤️
 <a href="https://github.com/lnbits/lnbits/commit/10093bb4">10093bb4</a> 2025-04-01 | Vlad Stan | feat: show wallet payments on search (#3076)</br>
 <a href="https://github.com/lnbits/lnbits/commit/1323a200">1323a200</a> 2025-04-01 | dni ⚡ | feat: cleanup on library dir creation and upload endpoints (#3069)</br>
 
-### March 2025
+#### March 2025
 
 <a href="https://github.com/lnbits/lnbits/commit/bafb4ddf">bafb4ddf</a> 2025-03-31 | Vlad Stan | fix: allow admin to view payments in deleted wallets (#3074)</br>
 <a href="https://github.com/lnbits/lnbits/commit/aa050eaf">aa050eaf</a> 2025-03-31 | Vlad Stan | fix: make parallel calls for exchages (#3073)</br>
