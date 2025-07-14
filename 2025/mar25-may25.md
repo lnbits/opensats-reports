@@ -12,7 +12,7 @@ All possible thanks to OpwenSats. Thank you from all of us, devs & users in LNbi
 
 ## LNbits core
 
-<a href="https://github.com/lnbits/lnbits/commit/77906bc8">77906bc8</a> 2025-05-30 | dni ⚡ | feat: more verbose aes decrypt function (#3177)
+<a href="https://github.com/lnbits/lnbits/commit/77906bc8">77906bc8</a> 2025-05-30 | dni ⚡ | feat: more verbose aes decrypt function (#3177)</br>
 <a href="https://github.com/lnbits/lnbits/commit/63e72871">63e72871</a> 2025-05-30 | Vlad Stan | fix: accept soft deleted wallets (#3179)
 <a href="https://github.com/lnbits/lnbits/commit/27fd5101">27fd5101</a> 2025-05-29 | blackcoffeexbt | Add funding sources comparison table (#3183)
 <a href="https://github.com/lnbits/lnbits/commit/e6de66e1">e6de66e1</a> 2025-05-27 | Vlad Stan | fix: handle node absent in 1ml.com (#3180)
