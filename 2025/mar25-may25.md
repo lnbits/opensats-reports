@@ -12,68 +12,6 @@ Thank you from all of us LNbits devs and users ❤️
 
 ## LNbits core
 
-#### May 2025
-
-<a href="https://github.com/lnbits/lnbits/commit/77906bc8">77906bc8</a> 2025-05-30 | dni ⚡ | feat: more verbose aes decrypt function (#3177)</br>
-<a href="https://github.com/lnbits/lnbits/commit/63e72871">63e72871</a> 2025-05-30 | Vlad Stan | fix: accept soft deleted wallets (#3179)</br>
-<a href="https://github.com/lnbits/lnbits/commit/27fd5101">27fd5101</a> 2025-05-29 | blackcoffeexbt | Add funding sources comparison table (#3183)</br>
-<a href="https://github.com/lnbits/lnbits/commit/e6de66e1">e6de66e1</a> 2025-05-27 | Vlad Stan | fix: handle node absent in 1ml.com (#3180)</br>
-<a href="https://github.com/lnbits/lnbits/commit/4071925f">4071925f</a> 2025-05-27 | dni ⚡ | feat: mask unexcepted error and add a exception id (#3178)</br>
-<a href="https://github.com/lnbits/lnbits/commit/3c4d186d">3c4d186d</a> 2025-05-27 | dni ⚡ | feat: add urlsafe enc to lnbits-cli (#3173)</br>
-<a href="https://github.com/lnbits/lnbits/commit/56aebb9d">56aebb9d</a> 2025-05-27 | Vlad Stan | feat: better service fee payment memo (#3176)</br>
-<a href="https://github.com/lnbits/lnbits/commit/beee24bd">beee24bd</a> 2025-05-27 | Vlad Stan | [feat] ui support for high number of wallets and payments (#3174)</br>
-<a href="https://github.com/lnbits/lnbits/commit/375b95c0">375b95c0</a> 2025-05-26 | Vlad Stan | fix: allow ports for domains (#3171)</br>
-<a href="https://github.com/lnbits/lnbits/commit/5345ccaf">5345ccaf</a> 2025-05-20 | Tiago Vasconcelos | [Fix] QR readability  (#3163)</br>
-<a href="https://github.com/lnbits/lnbits/commit/efc52333">efc52333</a> 2025-05-20 | Arc | fix: frontend scroll area on admin settings (#3162)</br>
-<a href="https://github.com/lnbits/lnbits/commit/e4d09c6d">e4d09c6d</a> 2025-05-20 | Arc | docs: passing vars to appimage (#3164)</br>
-<a href="https://github.com/lnbits/lnbits/commit/7d0545da">7d0545da</a> 2025-05-20 | Vlad Stan | [fix] timezone for payment list (#3165)</br>
-<a href="https://github.com/lnbits/lnbits/commit/34b8490a">34b8490a</a> 2025-05-20 | dni ⚡ | test: conftest smaller funding amounts (#3167)</br>
-<a href="https://github.com/lnbits/lnbits/commit/cbbba5c4">cbbba5c4</a> 2025-05-20 | dni ⚡ | fix: regtest nodemanager lndrest issue (#3166)</br>
-<a href="https://github.com/lnbits/lnbits/commit/4a0ef7fa">4a0ef7fa</a> 2025-05-19 | dni ⚡ | feat: add ssl proxy settings to docker and .env.example (#3161)</br>
-<a href="https://github.com/lnbits/lnbits/commit/cd8804da">cd8804da</a> 2025-05-13 | dni ⚡ | chore: update to version v1.1.0 (#3157)</br>
-<a href="https://github.com/lnbits/lnbits/commit/39e4fa72">39e4fa72</a> 2025-05-13 | Vlad Stan | test: additional cases for internal payments (#3155)</br>
-<a href="https://github.com/lnbits/lnbits/commit/3b350858">3b350858</a> 2025-05-13 | dni ⚡ | refactor: untangle lnd's macaroon encryption with AESCipher class (#3152)</br>
-<a href="https://github.com/lnbits/lnbits/commit/7bea5918">7bea5918</a> 2025-05-13 | Arc | feat: dont reset superuser on delete settings endpoint (#3065)</br>
-<a href="https://github.com/lnbits/lnbits/commit/f74fcea3">f74fcea3</a> 2025-05-13 | Vlad Stan | fix: safe json conversion (#3148)</br>
-<a href="https://github.com/lnbits/lnbits/commit/ceb82033">ceb82033</a> 2025-05-13 | dni ⚡ | refactor: render variables for jinja, components and window vars (#3014)</br>
-<a href="https://github.com/lnbits/lnbits/commit/8458b4d8">8458b4d8</a> 2025-05-05 | Tiago Vasconcelos | fix: do not ask for NFC if not needed (#3145)</br>
-<a href="https://github.com/lnbits/lnbits/commit/f92ae8ba">f92ae8ba</a> 2025-05-05 | Vlad Stan | doc: add time unit to payment_wait_time (#3144)</br>
-<a href="https://github.com/lnbits/lnbits/commit/3529f915">3529f915</a> 2025-05-05 | Vlad Stan | fix: better differentiation between UNAUTHORIZED and FORBIDDEN (#3139)</br>
-<a href="https://github.com/lnbits/lnbits/commit/6a9089fd">6a9089fd</a> 2025-05-05 | dni ⚡ | fix: lnd/lndrest failed canceled/expired invoices (#3143)</br>
-<a href="https://github.com/lnbits/lnbits/commit/a38de94e">a38de94e</a> 2025-05-02 | dni ⚡ | chore: update to v1.0.1 (#3137)</br>
-
-#### April 2025
-
-<a href="https://github.com/lnbits/lnbits/commit/32cbf16d">32cbf16d</a> 2025-04-30 | Vlad Stan | fix: _bcrypt.__about__.__version__ log warning (#3136)</br>
-<a href="https://github.com/lnbits/lnbits/commit/c4d0540e">c4d0540e</a> 2025-04-30 | dni ⚡ | feat: preimages for incoming payments, fundingsource saves preimage on create_invoice  (#3085)</br>
-<a href="https://github.com/lnbits/lnbits/commit/f8b36440">f8b36440</a> 2025-04-29 | Vlad Stan | fix: auto redirect to home page when 401 (#3131)</br>
-<a href="https://github.com/lnbits/lnbits/commit/c2fb45d6">c2fb45d6</a> 2025-04-29 | dni ⚡ | docs: add notes about freeBSD install (#3124)</br>
-<a href="https://github.com/lnbits/lnbits/commit/e339bb61">e339bb61</a> 2025-04-29 | Vlad Stan | [feat] fetch all payments for user (#3132)</br>
-<a href="https://github.com/lnbits/lnbits/commit/2dee26b7">2dee26b7</a> 2025-04-29 | Vlad Stan | fix: set explicit max_age for cookies (#3133)</br>
-<a href="https://github.com/lnbits/lnbits/commit/d774c7a7">d774c7a7</a> 2025-04-28 | dni ⚡ | security: update package h11 (#3127)</br>
-<a href="https://github.com/lnbits/lnbits/commit/6c2b312c">6c2b312c</a> 2025-04-28 | Vlad Stan | fix: webhook call on invoice pay (#3119)</br>
-<a href="https://github.com/lnbits/lnbits/commit/56c8783d">56c8783d</a> 2025-04-28 | iwarp | fix: Normalize fee_reserve amount value  (#3125)</br>
-<a href="https://github.com/lnbits/lnbits/commit/ffecd03c">ffecd03c</a> 2025-04-25 | dni ⚡ | refactor: fundingsource Invoice-, PaymentResponses (#3089)</br>
-<a href="https://github.com/lnbits/lnbits/commit/94d5f377">94d5f377</a> 2025-04-24 | Vlad Stan | fix: mask for fiat amount (#3118)</br>
-<a href="https://github.com/lnbits/lnbits/commit/d89bd740">d89bd740</a> 2025-04-17 | Vlad Stan | fix: use UTC for fromNow() (#3105)</br>
-<a href="https://github.com/lnbits/lnbits/commit/e686ecda">e686ecda</a> 2025-04-14 | Vlad Stan | feat: i18n reset password message (#3106)</br>
-<a href="https://github.com/lnbits/lnbits/commit/23b4c2cc">23b4c2cc</a> 2025-04-14 | Vlad Stan | [fix] offset naive dates error (#3104)</br>
-<a href="https://github.com/lnbits/lnbits/commit/1bb29cf0">1bb29cf0</a> 2025-04-12 | Tiago Vasconcelos | bug: add the defaults else it fails (#3099)</br>
-<a href="https://github.com/lnbits/lnbits/commit/57148484">57148484</a> 2025-04-10 | dni ⚡ | feat: install lnbits.sh bash script (#2684) (#3101)</br>
-<a href="https://github.com/lnbits/lnbits/commit/f87e5d43">f87e5d43</a> 2025-04-10 | dni ⚡ | chore: update LNbits to version v1.0.0 (#3100)</br>
-<a href="https://github.com/lnbits/lnbits/commit/a0502f16">a0502f16</a> 2025-04-10 | Tiago Vasconcelos | [Fix] - Bug on switching wallets and payment details (#3094)</br>
-<a href="https://github.com/lnbits/lnbits/commit/f6c8a308">f6c8a308</a> 2025-04-09 | Vlad Stan | feat: create new user from the command line (#3098)</br>
-<a href="https://github.com/lnbits/lnbits/commit/6df3933c">6df3933c</a> 2025-04-03 | dni ⚡ | ci: trigger release on rc's > 9 (#3088)</br>
-<a href="https://github.com/lnbits/lnbits/commit/ffef085f">ffef085f</a> 2025-04-03 | dni ⚡ | chore: update to v1.0.0-rc10 (#3087)</br>
-<a href="https://github.com/lnbits/lnbits/commit/6f611461">6f611461</a> 2025-04-02 | dni ⚡ | fix: FakeWallet, bolt11 payment_secret is not the preimage (#3084)</br>
-<a href="https://github.com/lnbits/lnbits/commit/681385e2">681385e2</a> 2025-04-02 | Tiago Vasconcelos | fix dialog consistency (#3082)</br>
-<a href="https://github.com/lnbits/lnbits/commit/883d52c3">883d52c3</a> 2025-04-02 | dni ⚡ | fix: phoenixd uses sat instead of msat for pay_invoice (#3083)</br>
-<a href="https://github.com/lnbits/lnbits/commit/10584618">10584618</a> 2025-04-02 | Vlad Stan | fix: include node balance in server status (#3079)</br>
-<a href="https://github.com/lnbits/lnbits/commit/3a7a8885">3a7a8885</a> 2025-04-02 | Vlad Stan | fix: missing label (#3081)</br>
-<a href="https://github.com/lnbits/lnbits/commit/6834b5e0">6834b5e0</a> 2025-04-01 | Vlad Stan | feat: do not allow regular admins to edit super user (#3077)</br>
-<a href="https://github.com/lnbits/lnbits/commit/10093bb4">10093bb4</a> 2025-04-01 | Vlad Stan | feat: show wallet payments on search (#3076)</br>
-<a href="https://github.com/lnbits/lnbits/commit/1323a200">1323a200</a> 2025-04-01 | dni ⚡ | feat: cleanup on library dir creation and upload endpoints (#3069)</br>
-
 #### March 2025
 
 <a href="https://github.com/lnbits/lnbits/commit/bafb4ddf">bafb4ddf</a> 2025-03-31 | Vlad Stan | fix: allow admin to view payments in deleted wallets (#3074)</br>
@@ -111,6 +49,68 @@ Thank you from all of us LNbits devs and users ❤️
 <a href="https://github.com/lnbits/lnbits/commit/991e0db5">991e0db5</a> 2025-03-03 | Arc | Feat: email notifications (#3007)</br>
 <a href="https://github.com/lnbits/lnbits/commit/fe9b62e8">fe9b62e8</a> 2025-03-03 | Tiago Vasconcelos | Fix: don't show register if new users not allowed (#3010)</br>
 <a href="https://github.com/lnbits/lnbits/commit/c5964436">c5964436</a> 2025-03-03 | dni ⚡ | fix: python versions were defined incorrectly and remove 3.9 (#3006)</br>
+
+#### April 2025
+
+<a href="https://github.com/lnbits/lnbits/commit/32cbf16d">32cbf16d</a> 2025-04-30 | Vlad Stan | fix: _bcrypt.__about__.__version__ log warning (#3136)</br>
+<a href="https://github.com/lnbits/lnbits/commit/c4d0540e">c4d0540e</a> 2025-04-30 | dni ⚡ | feat: preimages for incoming payments, fundingsource saves preimage on create_invoice  (#3085)</br>
+<a href="https://github.com/lnbits/lnbits/commit/f8b36440">f8b36440</a> 2025-04-29 | Vlad Stan | fix: auto redirect to home page when 401 (#3131)</br>
+<a href="https://github.com/lnbits/lnbits/commit/c2fb45d6">c2fb45d6</a> 2025-04-29 | dni ⚡ | docs: add notes about freeBSD install (#3124)</br>
+<a href="https://github.com/lnbits/lnbits/commit/e339bb61">e339bb61</a> 2025-04-29 | Vlad Stan | [feat] fetch all payments for user (#3132)</br>
+<a href="https://github.com/lnbits/lnbits/commit/2dee26b7">2dee26b7</a> 2025-04-29 | Vlad Stan | fix: set explicit max_age for cookies (#3133)</br>
+<a href="https://github.com/lnbits/lnbits/commit/d774c7a7">d774c7a7</a> 2025-04-28 | dni ⚡ | security: update package h11 (#3127)</br>
+<a href="https://github.com/lnbits/lnbits/commit/6c2b312c">6c2b312c</a> 2025-04-28 | Vlad Stan | fix: webhook call on invoice pay (#3119)</br>
+<a href="https://github.com/lnbits/lnbits/commit/56c8783d">56c8783d</a> 2025-04-28 | iwarp | fix: Normalize fee_reserve amount value  (#3125)</br>
+<a href="https://github.com/lnbits/lnbits/commit/ffecd03c">ffecd03c</a> 2025-04-25 | dni ⚡ | refactor: fundingsource Invoice-, PaymentResponses (#3089)</br>
+<a href="https://github.com/lnbits/lnbits/commit/94d5f377">94d5f377</a> 2025-04-24 | Vlad Stan | fix: mask for fiat amount (#3118)</br>
+<a href="https://github.com/lnbits/lnbits/commit/d89bd740">d89bd740</a> 2025-04-17 | Vlad Stan | fix: use UTC for fromNow() (#3105)</br>
+<a href="https://github.com/lnbits/lnbits/commit/e686ecda">e686ecda</a> 2025-04-14 | Vlad Stan | feat: i18n reset password message (#3106)</br>
+<a href="https://github.com/lnbits/lnbits/commit/23b4c2cc">23b4c2cc</a> 2025-04-14 | Vlad Stan | [fix] offset naive dates error (#3104)</br>
+<a href="https://github.com/lnbits/lnbits/commit/1bb29cf0">1bb29cf0</a> 2025-04-12 | Tiago Vasconcelos | bug: add the defaults else it fails (#3099)</br>
+<a href="https://github.com/lnbits/lnbits/commit/57148484">57148484</a> 2025-04-10 | dni ⚡ | feat: install lnbits.sh bash script (#2684) (#3101)</br>
+<a href="https://github.com/lnbits/lnbits/commit/f87e5d43">f87e5d43</a> 2025-04-10 | dni ⚡ | chore: update LNbits to version v1.0.0 (#3100)</br>
+<a href="https://github.com/lnbits/lnbits/commit/a0502f16">a0502f16</a> 2025-04-10 | Tiago Vasconcelos | [Fix] - Bug on switching wallets and payment details (#3094)</br>
+<a href="https://github.com/lnbits/lnbits/commit/f6c8a308">f6c8a308</a> 2025-04-09 | Vlad Stan | feat: create new user from the command line (#3098)</br>
+<a href="https://github.com/lnbits/lnbits/commit/6df3933c">6df3933c</a> 2025-04-03 | dni ⚡ | ci: trigger release on rc's > 9 (#3088)</br>
+<a href="https://github.com/lnbits/lnbits/commit/ffef085f">ffef085f</a> 2025-04-03 | dni ⚡ | chore: update to v1.0.0-rc10 (#3087)</br>
+<a href="https://github.com/lnbits/lnbits/commit/6f611461">6f611461</a> 2025-04-02 | dni ⚡ | fix: FakeWallet, bolt11 payment_secret is not the preimage (#3084)</br>
+<a href="https://github.com/lnbits/lnbits/commit/681385e2">681385e2</a> 2025-04-02 | Tiago Vasconcelos | fix dialog consistency (#3082)</br>
+<a href="https://github.com/lnbits/lnbits/commit/883d52c3">883d52c3</a> 2025-04-02 | dni ⚡ | fix: phoenixd uses sat instead of msat for pay_invoice (#3083)</br>
+<a href="https://github.com/lnbits/lnbits/commit/10584618">10584618</a> 2025-04-02 | Vlad Stan | fix: include node balance in server status (#3079)</br>
+<a href="https://github.com/lnbits/lnbits/commit/3a7a8885">3a7a8885</a> 2025-04-02 | Vlad Stan | fix: missing label (#3081)</br>
+<a href="https://github.com/lnbits/lnbits/commit/6834b5e0">6834b5e0</a> 2025-04-01 | Vlad Stan | feat: do not allow regular admins to edit super user (#3077)</br>
+<a href="https://github.com/lnbits/lnbits/commit/10093bb4">10093bb4</a> 2025-04-01 | Vlad Stan | feat: show wallet payments on search (#3076)</br>
+<a href="https://github.com/lnbits/lnbits/commit/1323a200">1323a200</a> 2025-04-01 | dni ⚡ | feat: cleanup on library dir creation and upload endpoints (#3069)</br>
+
+#### May 2025
+
+<a href="https://github.com/lnbits/lnbits/commit/77906bc8">77906bc8</a> 2025-05-30 | dni ⚡ | feat: more verbose aes decrypt function (#3177)</br>
+<a href="https://github.com/lnbits/lnbits/commit/63e72871">63e72871</a> 2025-05-30 | Vlad Stan | fix: accept soft deleted wallets (#3179)</br>
+<a href="https://github.com/lnbits/lnbits/commit/27fd5101">27fd5101</a> 2025-05-29 | blackcoffeexbt | Add funding sources comparison table (#3183)</br>
+<a href="https://github.com/lnbits/lnbits/commit/e6de66e1">e6de66e1</a> 2025-05-27 | Vlad Stan | fix: handle node absent in 1ml.com (#3180)</br>
+<a href="https://github.com/lnbits/lnbits/commit/4071925f">4071925f</a> 2025-05-27 | dni ⚡ | feat: mask unexcepted error and add a exception id (#3178)</br>
+<a href="https://github.com/lnbits/lnbits/commit/3c4d186d">3c4d186d</a> 2025-05-27 | dni ⚡ | feat: add urlsafe enc to lnbits-cli (#3173)</br>
+<a href="https://github.com/lnbits/lnbits/commit/56aebb9d">56aebb9d</a> 2025-05-27 | Vlad Stan | feat: better service fee payment memo (#3176)</br>
+<a href="https://github.com/lnbits/lnbits/commit/beee24bd">beee24bd</a> 2025-05-27 | Vlad Stan | [feat] ui support for high number of wallets and payments (#3174)</br>
+<a href="https://github.com/lnbits/lnbits/commit/375b95c0">375b95c0</a> 2025-05-26 | Vlad Stan | fix: allow ports for domains (#3171)</br>
+<a href="https://github.com/lnbits/lnbits/commit/5345ccaf">5345ccaf</a> 2025-05-20 | Tiago Vasconcelos | [Fix] QR readability  (#3163)</br>
+<a href="https://github.com/lnbits/lnbits/commit/efc52333">efc52333</a> 2025-05-20 | Arc | fix: frontend scroll area on admin settings (#3162)</br>
+<a href="https://github.com/lnbits/lnbits/commit/e4d09c6d">e4d09c6d</a> 2025-05-20 | Arc | docs: passing vars to appimage (#3164)</br>
+<a href="https://github.com/lnbits/lnbits/commit/7d0545da">7d0545da</a> 2025-05-20 | Vlad Stan | [fix] timezone for payment list (#3165)</br>
+<a href="https://github.com/lnbits/lnbits/commit/34b8490a">34b8490a</a> 2025-05-20 | dni ⚡ | test: conftest smaller funding amounts (#3167)</br>
+<a href="https://github.com/lnbits/lnbits/commit/cbbba5c4">cbbba5c4</a> 2025-05-20 | dni ⚡ | fix: regtest nodemanager lndrest issue (#3166)</br>
+<a href="https://github.com/lnbits/lnbits/commit/4a0ef7fa">4a0ef7fa</a> 2025-05-19 | dni ⚡ | feat: add ssl proxy settings to docker and .env.example (#3161)</br>
+<a href="https://github.com/lnbits/lnbits/commit/cd8804da">cd8804da</a> 2025-05-13 | dni ⚡ | chore: update to version v1.1.0 (#3157)</br>
+<a href="https://github.com/lnbits/lnbits/commit/39e4fa72">39e4fa72</a> 2025-05-13 | Vlad Stan | test: additional cases for internal payments (#3155)</br>
+<a href="https://github.com/lnbits/lnbits/commit/3b350858">3b350858</a> 2025-05-13 | dni ⚡ | refactor: untangle lnd's macaroon encryption with AESCipher class (#3152)</br>
+<a href="https://github.com/lnbits/lnbits/commit/7bea5918">7bea5918</a> 2025-05-13 | Arc | feat: dont reset superuser on delete settings endpoint (#3065)</br>
+<a href="https://github.com/lnbits/lnbits/commit/f74fcea3">f74fcea3</a> 2025-05-13 | Vlad Stan | fix: safe json conversion (#3148)</br>
+<a href="https://github.com/lnbits/lnbits/commit/ceb82033">ceb82033</a> 2025-05-13 | dni ⚡ | refactor: render variables for jinja, components and window vars (#3014)</br>
+<a href="https://github.com/lnbits/lnbits/commit/8458b4d8">8458b4d8</a> 2025-05-05 | Tiago Vasconcelos | fix: do not ask for NFC if not needed (#3145)</br>
+<a href="https://github.com/lnbits/lnbits/commit/f92ae8ba">f92ae8ba</a> 2025-05-05 | Vlad Stan | doc: add time unit to payment_wait_time (#3144)</br>
+<a href="https://github.com/lnbits/lnbits/commit/3529f915">3529f915</a> 2025-05-05 | Vlad Stan | fix: better differentiation between UNAUTHORIZED and FORBIDDEN (#3139)</br>
+<a href="https://github.com/lnbits/lnbits/commit/6a9089fd">6a9089fd</a> 2025-05-05 | dni ⚡ | fix: lnd/lndrest failed canceled/expired invoices (#3143)</br>
+<a href="https://github.com/lnbits/lnbits/commit/a38de94e">a38de94e</a> 2025-05-02 | dni ⚡ | chore: update to v1.0.1 (#3137)</br>
 
 ## Extension commits between Mar 2025 - May 2025
 * https://github.com/lnbits/fossa_extension/commits?since=2025-03-01&until=2025-05-31
