@@ -4,151 +4,36 @@ Post-V1 and beyond 🚀
 
 👇 Some new videos thanks to >_OpenSats.
 
-<span title="This is a tooltip"><a href="https://www.youtube.com/watch?v=16T_Psc8Qn4"><img width="300" src="https://github.com/user-attachments/assets/3ff9b24a-439c-4077-a223-3ea62e4845bf"></a></span>   <a href="https://www.youtube.com/watch?v=e8VXjp83sdc"><img width="300" src="https://github.com/user-attachments/assets/bbaa4bf3-efa4-4b56-bce8-bec9a2336c09"></a>   <a href="https://www.youtube.com/watch?v=QDwNgHz8v7M"><img width="300" src="https://github.com/user-attachments/assets/cf4bb01e-2df9-411b-8060-2c91e6f7df74"></a>
+<span title="Remote signer"><a href="https://www.youtube.com/watch?v=16T_Psc8Qn4"><img width="300" src="https://github.com/user-attachments/assets/3ff9b24a-439c-4077-a223-3ea62e4845bf"></a></span>   <span title="R"><a href="https://www.youtube.com/watch?v=e8VXjp83sdc"><img width="300" src="https://github.com/user-attachments/assets/bbaa4bf3-efa4-4b56-bce8-bec9a2336c09"></a>   <a href="https://www.youtube.com/watch?v=QDwNgHz8v7M"><img width="300" src="https://github.com/user-attachments/assets/cf4bb01e-2df9-411b-8060-2c91e6f7df74"></a>
 
 Post-V1 is an exciting time for us - core is stable - so we get to work through the backlog of features and give all the extensions a little TLC.
 
 All possible thanks to OpwenSats. Thank you from all of us, devs & users in LNbitsLand ❤️
 
 ## LNbits core
-#### March 2025
-* [feat] install extensions from dir by @motorina0 in https://github.com/lnbits/lnbits/pull/2781
-* chore: update to v1.0.0-rc6 by @dni in https://github.com/lnbits/lnbits/pull/2784
-* chore: add type to migration by @dni in https://github.com/lnbits/lnbits/pull/2788
-* chore: remove ignores from crypto.py by @dni in https://github.com/lnbits/lnbits/pull/2787
-* chore: use HTTPStatus for ip middleware by @dni in https://github.com/lnbits/lnbits/pull/2792
-* [fix] wallet search on postgres by @motorina0 in https://github.com/lnbits/lnbits/pull/2780
-* feat: add failed payments toggle to wallet page by @dni in https://github.com/lnbits/lnbits/pull/2794
-* fix: last_payment on userlist was broken by @dni in https://github.com/lnbits/lnbits/pull/2796
-* chore: clean up javascript functions and var/let into const by @dni in https://github.com/lnbits/lnbits/pull/2791
-* test: update python to 3.10 and 3.11 inside CI by @dni in https://github.com/lnbits/lnbits/pull/2803
-* test: update ci from ubuntu-latest to ubuntu-24.04 by @dni in https://github.com/lnbits/lnbits/pull/2809
-* chore: update to latest pytest by @dni in https://github.com/lnbits/lnbits/pull/2800
-* fix: extension init by @motorina0 in https://github.com/lnbits/lnbits/pull/2815
-* fix: error on custom badge by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2814
-* test: fix lndrest on regtest by @dni in https://github.com/lnbits/lnbits/pull/2811
-* fix: ext upgrade from `lnbits-cli` by @motorina0 in https://github.com/lnbits/lnbits/pull/2822https://github.com/lnbits/lnbits/pull/2834
-* fix: wallet.js regression in changing var` to `const` by @dni in https://github.com/lnbits/lnbits/pull/2824
-* test: fix jmeter for ci by @dni in https://github.com/lnbits/lnbits/pull/2825
-* [feat] custom exchange providers by @motorina0 in https://github.com/lnbits/lnbits/pull/2797
-* feat: return the price with the fiat rate by @motorina0 in https://github.com/lnbits/lnbits/pull/2823
-* fix: remove queue limit for invoice listners by @dni in https://github.com/lnbits/lnbits/pull/2829
-* fix: make startup extension check sync by @dni in https://github.com/lnbits/lnbits/pull/2819
-* fix: don't show when custom badge is not set by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2827
-* feat: websocket for payments events, remove /payments/sse and longpolling endpoint by @dni in https://github.com/lnbits/lnbits/pull/2704
-* [feat] update multiple extensions from the UI by @motorina0 in https://github.com/lnbits/lnbits/pull/2833
-* hotfix: the hotfix for the custom badge by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2832
-* [feat] introduce `max_lnbits_version` for extensions by @motorina0 in https://github.com/lnbits/lnbits/pull/2834
-* make dialogs position at top by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2837
-* chore: update to corelightning 24.11 by @dni in https://github.com/lnbits/lnbits/pull/2836
-* feat: add negative topups by @dni in https://github.com/lnbits/lnbits/pull/2835
-* ci: docker image and test with python3.12 by @dni in https://github.com/lnbits/lnbits/pull/2842
-* fix: backwards compatible `get_fiat_rate_satoshis` by @motorina0 in https://github.com/lnbits/lnbits/pull/2853
-* fix: set default values for `AuditCountStat` by @motorina0 in https://github.com/lnbits/lnbits/pull/2854
-* fix: get_payments where clause does query wrong payments including tests by @dni in https://github.com/lnbits/lnbits/pull/2844
-* docs: updated install guide by @arcbtc in https://github.com/lnbits/lnbits/pull/2846
-* test: use regtest main again by @dni in https://github.com/lnbits/lnbits/pull/2855
-* chore: update to v1.0.0-rc7 by @dni in https://github.com/lnbits/lnbits/pull/2856
-* feat: standardises top spacing of page layout by @arcbtc in https://github.com/lnbits/lnbits/pull/2848
-* Added top cards by @arcbtc in https://github.com/lnbits/lnbits/pull/2858
-* feat: moved search inside the transaction table by @arcbtc in https://github.com/lnbits/lnbits/pull/2859
-* Added settings links and link for theme by @arcbtc in https://github.com/lnbits/lnbits/pull/2860
-* feat: nodemanager, view and edit channels fees by @dni in https://github.com/lnbits/lnbits/pull/2818
 
-#### Jan 2025
-* fix: ci with docker image built (downgrade poetry) by @dni in https://github.com/lnbits/lnbits/pull/2876
-* fix: lndrest nodemanager get_channel (flaky ci decoy) by @dni in https://github.com/lnbits/lnbits/pull/2877
-* fix: NWC mark and remove subs before sending close request by @riccardobl in https://github.com/lnbits/lnbits/pull/2870
-* fix: restore user type badge by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2861
-* chore: update to breez-sdk 0.6.6 by @dni in https://github.com/lnbits/lnbits/pull/2878
-* chore: update i18n labels by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2871
-* fix: cln nodemanager errors on failed transactions by @dni in https://github.com/lnbits/lnbits/pull/2865
-* fix: Add timeout to wait_for_connection by @riccardobl in https://github.com/lnbits/lnbits/pull/2885
-* fix: lnbits/upgrades where not ignore by @dni in https://github.com/lnbits/lnbits/pull/2889
-* v1 feat: Vue Routes by @arcbtc in https://github.com/lnbits/lnbits/pull/2872
-* feat: harmonize the UI for payment dialog by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2882
-* [feat] access control lists (with access tokens) by @motorina0 in https://github.com/lnbits/lnbits/pull/2864
-* fix: for g.user error on public pages by @arcbtc in https://github.com/lnbits/lnbits/pull/2892
-* Fix payment table refresh by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2894
-* feature: Optional bg image and neon borders by @arcbtc in https://github.com/lnbits/lnbits/pull/2897
-* fix: fiat tracking / updating wallet without reloads by @arcbtc in https://github.com/lnbits/lnbits/pull/2891
-* fix: multiple ws connections by @motorina0 in https://github.com/lnbits/lnbits/pull/2907
-* [feat] Watchdog and notifications by @motorina0 in https://github.com/lnbits/lnbits/pull/2895
-* feat: do not allow `user_id_only` login for admins by @motorina0 in https://github.com/lnbits/lnbits/pull/2904
-* feature: admin toggle to disable outgoing payments by @arcbtc in https://github.com/lnbits/lnbits/pull/2909
-* feature: Default theme for new users by @arcbtc in https://github.com/lnbits/lnbits/pull/2898
-* Translate expiry to expirySeconds for Phoenixd by @blackcoffeexbt in https://github.com/lnbits/lnbits/pull/2901
-* fix: router force update by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2914
-* Add bar spinner by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2915
-* fixes wallet ws by @arcbtc in https://github.com/lnbits/lnbits/pull/2912
-* Some menu naming changes by @arcbtc in https://github.com/lnbits/lnbits/pull/2911
-* fix: convert `BigDecimal` object to `int` (postgres only) by @motorina0 in https://github.com/lnbits/lnbits/pull/2918
-
-#### Feb 2025
-* Fix index.html error by @arcbtc in https://github.com/lnbits/lnbits/pull/2923
-* Feat: Adds wallet icon/color select by @arcbtc in https://github.com/lnbits/lnbits/pull/2917
-* Add a payments page for admin by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2910
-* Reset wallet keys by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2929
-* Fixes the jinja container for first_install by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2925
-* Revamp the UI on Login / Register page by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2919
-* UI improvements by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2926
-* Feat: Creates .AppImage a̶n̶d̶ .d̶m̶g̶ on release by @arcbtc in https://github.com/lnbits/lnbits/pull/2920
-* Fixes claiming LNURL by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2924
-* feat: migrate in chunks by @motorina0 in https://github.com/lnbits/lnbits/pull/2936
-* Fix login with oauth by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2935
-* Fixes switching back to wallet by @arcbtc in https://github.com/lnbits/lnbits/pull/2937
-* white theme that doesnt hurt eyes by @arcbtc in https://github.com/lnbits/lnbits/pull/2938
-* Fixes setting theme from account by @arcbtc in https://github.com/lnbits/lnbits/pull/2939
-* [fix]: small fixes v1 on demo DB by @motorina0 in https://github.com/lnbits/lnbits/pull/2940
-* [fix] small fixes for ext upgrades by @motorina0 in https://github.com/lnbits/lnbits/pull/2941
-* Adds no-border to fix the install card by @arcbtc in https://github.com/lnbits/lnbits/pull/2950
-* Tweak: Updated Poetry install to include headers and make copy/paste easier by @arcbtc in https://github.com/lnbits/lnbits/pull/2948
-* Adds extension#<ext name> option to extensions url by @arcbtc in https://github.com/lnbits/lnbits/pull/2947
-* Tweak: Removes profile dropdown for public pages by @arcbtc in https://github.com/lnbits/lnbits/pull/2943
-* BG image/gradient to light fix by @arcbtc in https://github.com/lnbits/lnbits/pull/2945
-* tweak: fun themes by @arcbtc in https://github.com/lnbits/lnbits/pull/2951
-* Fix: payments table by @arcbtc in https://github.com/lnbits/lnbits/pull/2952
-* Wallet polish by @motorina0 in https://github.com/lnbits/lnbits/pull/2942
-* Small fix on public pages by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2953
-* Another small one by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2954
-* Fix: date grouping for older SQLite versions by @motorina0 in https://github.com/lnbits/lnbits/pull/2955
-* Revert "Another small one" by @arcbtc in https://github.com/lnbits/lnbits/pull/2958
-* fix: keep upgrades out of codebase by @motorina0 in https://github.com/lnbits/lnbits/pull/2957
-* [fix] callback url validation by @motorina0 in https://github.com/lnbits/lnbits/pull/2959
-* fix: wallet url by @motorina0 in https://github.com/lnbits/lnbits/pull/2961
-* Tweak so long wallet names/balances do not break wallet card/list by @arcbtc in https://github.com/lnbits/lnbits/pull/2964
-* Quasarfy drawer scroll by @arcbtc in https://github.com/lnbits/lnbits/pull/2965
-* fix: logout on safari by @motorina0 in https://github.com/lnbits/lnbits/pull/2971
-* Chart polish by @motorina0 in https://github.com/lnbits/lnbits/pull/2973
-* fix: nostr login by @motorina0 in https://github.com/lnbits/lnbits/pull/2975
-* add blink logo by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2976
-* fix: extract tag from `extra` by @motorina0 in https://github.com/lnbits/lnbits/pull/2977
-* adds a blur to the transparent bg by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2978
-* Change UI for Pay Invoice Dialog by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2979
-* change icon for pending by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2980
-* feat: add `normalize_path ` helper by @motorina0 in https://github.com/lnbits/lnbits/pull/2981
-* bug: settings fundingtab errors by @dni in https://github.com/lnbits/lnbits/pull/2982
-* fix: pay_invoice timeout to prevent blocking by @dni in https://github.com/lnbits/lnbits/pull/2875
-* Fake wallet fixes by @arcbtc in https://github.com/lnbits/lnbits/pull/2983
-* feat: modernize error page by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2949
-* fix: wallet balance format by @arcbtc in https://github.com/lnbits/lnbits/pull/2985
-* fix: default hide funding inputs by @arcbtc in https://github.com/lnbits/lnbits/pull/2987
-* feat: add python-multipart for uploads by @dni in https://github.com/lnbits/lnbits/pull/2873
-* feat: add label for wallet fiat tracking by @dni in https://github.com/lnbits/lnbits/pull/2988
-* fix: payments filter by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2989
-* tweak: added libfuse2 to guide for fresh vps folks by @arcbtc in https://github.com/lnbits/lnbits/pull/2991
-* tweak: just to make it obv port can be changed by @arcbtc in https://github.com/lnbits/lnbits/pull/2992
-* tweak: checkout main not needed by @arcbtc in https://github.com/lnbits/lnbits/pull/2993
-* [feat]: invoice amount settings by @motorina0 in https://github.com/lnbits/lnbits/pull/2990
-* chore: update lnbits version to 1.0.0-rc8 by @dni in https://github.com/lnbits/lnbits/pull/2995
-* tweak: embit needs to be declared by @arcbtc in https://github.com/lnbits/lnbits/pull/2996
-* Fix a typo in reset password logic by @talvasconcelos in https://github.com/lnbits/lnbits/pull/2998
-* [feat] filter payments in wallet by @motorina0 in https://github.com/lnbits/lnbits/pull/2997
-* [Fix] Denomination 3 characters by @talvasconcelos in https://github.com/lnbits/lnbits/pull/3001
-* [fix]: various issues discovered during testing by @motorina0 in https://github.com/lnbits/lnbits/pull/3002
-* fix: paying an invoice does not send a webhook. #2472 by @dni in https://github.com/lnbits/lnbits/pull/2999
-* [fix] admin errors by @motorina0 in https://github.com/lnbits/lnbits/pull/3004
-* Fix: compare not assign by @talvasconcelos in https://github.com/lnbits/lnbits/pull/3009
+- [`77906bc8`](https://github.com/lnbits/lnbits/commit/77906bc8170e2a8bc318f7445e11564a3352a965) feat: more verbose aes decrypt function (#3177) – [@dni ⚡](https://github.com/dni ⚡)
+- [`63e72871`](https://github.com/lnbits/lnbits/commit/63e728710d16a44d18a0cc4c582d5eadc948cab6) fix: accept soft deleted wallets (#3179) – [@Vlad Stan](https://github.com/Vlad Stan)
+- [`27fd5101`](https://github.com/lnbits/lnbits/commit/27fd5101420b27c9f839bb55f4b14ab9ad77e40b) Add funding sources comparison table (#3183) – [@blackcoffeexbt](https://github.com/blackcoffeexbt)
+- [`e6de66e1`](https://github.com/lnbits/lnbits/commit/e6de66e1b1e50bbe7b9e735125fb85cb8490a46c) fix: handle node absent in 1ml.com (#3180) – [@Vlad Stan](https://github.com/Vlad Stan)
+- [`4071925f`](https://github.com/lnbits/lnbits/commit/4071925f654233ec2d15176f4c944e6b766a54fa) feat: mask unexcepted error and add a exception id (#3178) – [@dni ⚡](https://github.com/dni ⚡)
+- [`3c4d186d`](https://github.com/lnbits/lnbits/commit/3c4d186dba27bfdf305bd43c1cf4611673dfdb45) feat: add urlsafe enc to lnbits-cli (#3173) – [@dni ⚡](https://github.com/dni ⚡)
+- [`56aebb9d`](https://github.com/lnbits/lnbits/commit/56aebb9d8f9793cd7a16be31e56a2f26febaa36f) feat: better service fee payment memo (#3176) – [@Vlad Stan](https://github.com/Vlad Stan)
+- [`beee24bd`](https://github.com/lnbits/lnbits/commit/beee24bd92d22dbe5b6de37768fbd37a3852330b) [feat] ui support for high number of wallets and payments (#3174) – [@Vlad Stan](https://github.com/Vlad Stan)
+- [`375b95c0`](https://github.com/lnbits/lnbits/commit/375b95c0046deec798462342b4266b4794b08723) fix: allow ports for domains (#3171) – [@Vlad Stan](https://github.com/Vlad Stan)
+- [`5345ccaf`](https://github.com/lnbits/lnbits/commit/5345ccaf4ec380e1c5f49c736105df9c089cf95a) [Fix] QR readability  (#3163) – [@Tiago Vasconcelos](https://github.com/Tiago Vasconcelos)
+- [`efc52333`](https://github.com/lnbits/lnbits/commit/efc52333991d71a57d57aeda636c1e7bc64923cc) fix: frontend scroll area on admin settings (#3162) – [@Arc](https://github.com/Arc)
+- [`e4d09c6d`](https://github.com/lnbits/lnbits/commit/e4d09c6d12533172ed0eda0ca0653b899c2184ce) docs: passing vars to appimage (#3164) – [@Arc](https://github.com/Arc)
+- [`7d0545da`](https://github.com/lnbits/lnbits/commit/7d0545dae126f22b221b7a6eecf324ec2381d44a) [fix] timezone for payment list (#3165) – [@Vlad Stan](https://github.com/Vlad Stan)
+- [`00fccf51`](https://github.com/lnbits/lnbits/commit/00fccf513ec873852758b1d9801a3bd1c3135085) feat: Add Strike Wallet Integration (#3150) – [@Sat](https://github.com/Sat)
+- [`34b8490a`](https://github.com/lnbits/lnbits/commit/34b8490a2d1b23060abee13085269791cee4f326) test: conftest smaller funding amounts (#3167) – [@dni ⚡](https://github.com/dni ⚡)
+- [`cbbba5c4`](https://github.com/lnbits/lnbits/commit/cbbba5c4c75f0b8d86d13dc50818c0d26515261e) fix: regtest nodemanager lndrest issue (#3166) – [@dni ⚡](https://github.com/dni ⚡)
+- [`4a0ef7fa`](https://github.com/lnbits/lnbits/commit/4a0ef7fa1af420ed4d118ffc2c90174146a126b1) feat: add ssl proxy settings to docker and `.env.example` (#3161) – [@dni ⚡](https://github.com/dni ⚡)
+- [`cd8804da`](https://github.com/lnbits/lnbits/commit/cd8804dacaa499734c43137ecba8ec7ed2a056a7) chore: update to version v1.1.0 (#3157) – [@dni ⚡](https://github.com/dni ⚡)
+- [`39e4fa72`](https://github.com/lnbits/lnbits/commit/39e4fa724ad46de36cecdbb0789127db437b87d7) test: additional cases for internal payments (#3155) – [@Vlad Stan](https://github.com/Vlad Stan)
+- [`3b350858`](https://github.com/lnbits/lnbits/commit/3b350858c7d1ba6702dce3126b1edc8eaa1efe9f) refactor: untangle lnd's macaroon encryption with AESCipher class (#3152) – [@dni ⚡](https://github.com/dni ⚡)
+- [`7bea5918`](https://github.com/lnbits/lnbits/commit/7bea59187959e420ff6472abff9d9ac08fc4de72) feat: dont reset superuser on delete settings endpoint (#3065) – [@Arc](https://github.com/Arc)
+- [`f74fcea3`](https://github.com/lnbits/lnbits/commit/f74fcea35b932deb6b5d228294595a19e801b4f9) fix: safe json conversion (#3148) – [@Vlad Stan](https://github.com/Vlad Stan)
 
 
 
