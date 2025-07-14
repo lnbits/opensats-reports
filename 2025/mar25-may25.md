@@ -34,6 +34,45 @@ All possible thanks to OpwenSats. Thank you from all of us, devs & users in LNbi
 - [`7bea5918`](https://github.com/lnbits/lnbits/commit/7bea59187959e420ff6472abff9d9ac08fc4de72) feat: dont reset superuser on delete settings endpoint (#3065) – [@Arc](https://github.com/Arc)
 - [`f74fcea3`](https://github.com/lnbits/lnbits/commit/f74fcea35b932deb6b5d228294595a19e801b4f9) fix: safe json conversion (#3148) – [@Vlad Stan](https://github.com/Vlad Stan)
 
+- [`00fccf51`](https://github.com/lnbits/lnbits/commit/00fccf513ec873852758b1d9801a3bd1c3135085) feat: Add Strike Wallet Integration (#3150)
+
+Co-authored-by: Vlad Stan <stan.v.vlad@gmail.com> – [@Sat](https://github.com/Sat)
+- [`27fd5101`](https://github.com/lnbits/lnbits/commit/27fd5101420b27c9f839bb55f4b14ab9ad77e40b) Add funding sources comparison table (#3183) – [@blackcoffeexbt](https://github.com/blackcoffeexbt)
+- [`34b8490a`](https://github.com/lnbits/lnbits/commit/34b8490a2d1b23060abee13085269791cee4f326) test: conftest smaller funding amounts (#3167) – [@dni ⚡](https://github.com/dni ⚡)
+- [`3529f915`](https://github.com/lnbits/lnbits/commit/3529f9152fbe3814665ccc62d3878e7fc2712997) fix: better differentiation between `UNAUTHORIZED` and `FORBIDDEN` (#3139) – [@Vlad Stan](https://github.com/Vlad Stan)
+- [`375b95c0`](https://github.com/lnbits/lnbits/commit/375b95c0046deec798462342b4266b4794b08723) fix: allow ports for domains (#3171) – [@Vlad Stan](https://github.com/Vlad Stan)
+- [`39e4fa72`](https://github.com/lnbits/lnbits/commit/39e4fa724ad46de36cecdbb0789127db437b87d7) test: additional cases for internal payments (#3155)
+
+Co-authored-by: dni ⚡ <office@dnilabs.com> – [@Vlad Stan](https://github.com/Vlad Stan)
+- [`3b350858`](https://github.com/lnbits/lnbits/commit/3b350858c7d1ba6702dce3126b1edc8eaa1efe9f) refactor: untangle lnd's macaroon encryption with AESCipher class (#3152) – [@dni ⚡](https://github.com/dni ⚡)
+- [`3c4d186d`](https://github.com/lnbits/lnbits/commit/3c4d186dba27bfdf305bd43c1cf4611673dfdb45) feat: add urlsafe enc to lnbits-cli (#3173) – [@dni ⚡](https://github.com/dni ⚡)
+- [`4071925f`](https://github.com/lnbits/lnbits/commit/4071925f654233ec2d15176f4c944e6b766a54fa) feat: mask unexcepted error and add a exception id (#3178) – [@dni ⚡](https://github.com/dni ⚡)
+- [`4a0ef7fa`](https://github.com/lnbits/lnbits/commit/4a0ef7fa1af420ed4d118ffc2c90174146a126b1) feat: add ssl proxy settings to docker and `.env.example` (#3161) – [@dni ⚡](https://github.com/dni ⚡)
+- [`5345ccaf`](https://github.com/lnbits/lnbits/commit/5345ccaf4ec380e1c5f49c736105df9c089cf95a) [Fix] QR readability  (#3163) – [@Tiago Vasconcelos](https://github.com/Tiago Vasconcelos)
+- [`56aebb9d`](https://github.com/lnbits/lnbits/commit/56aebb9d8f9793cd7a16be31e56a2f26febaa36f) feat: better service fee payment memo (#3176) – [@Vlad Stan](https://github.com/Vlad Stan)
+- [`5818c3c2`](https://github.com/lnbits/lnbits/commit/5818c3c2ba9cbb9b0b53d1badb13a2f04ca9b02d) [doc] Update installation.md to match v1.0.x requirements (#3107) – [@tlindi](https://github.com/tlindi)
+- [`63e72871`](https://github.com/lnbits/lnbits/commit/63e728710d16a44d18a0cc4c582d5eadc948cab6) fix: accept soft deleted wallets (#3179) – [@Vlad Stan](https://github.com/Vlad Stan)
+- [`6a9089fd`](https://github.com/lnbits/lnbits/commit/6a9089fd98056cf104680217e55dee0927902f40) fix: lnd/lndrest failed canceled/expired invoices (#3143) – [@dni ⚡](https://github.com/dni ⚡)
+- [`77906bc8`](https://github.com/lnbits/lnbits/commit/77906bc8170e2a8bc318f7445e11564a3352a965) feat: more verbose aes decrypt function (#3177) – [@dni ⚡](https://github.com/dni ⚡)
+- [`7b29223e`](https://github.com/lnbits/lnbits/commit/7b29223e95c5c7ae36791f3ee832decf322b8277) feat: add verify_preimage utility function (#3153) – [@Sat](https://github.com/Sat)
+- [`7bea5918`](https://github.com/lnbits/lnbits/commit/7bea59187959e420ff6472abff9d9ac08fc4de72) feat: dont reset superuser on delete settings endpoint (#3065)
+
+Co-authored-by: dni ⚡ <office@dnilabs.com> – [@Arc](https://github.com/Arc)
+- [`7d0545da`](https://github.com/lnbits/lnbits/commit/7d0545dae126f22b221b7a6eecf324ec2381d44a) [fix] timezone for payment list (#3165) – [@Vlad Stan](https://github.com/Vlad Stan)
+- [`8458b4d8`](https://github.com/lnbits/lnbits/commit/8458b4d84b2e3c05390d5d3132d7b6d1f7b801f8) fix: do not ask for NFC if not needed (#3145) – [@Tiago Vasconcelos](https://github.com/Tiago Vasconcelos)
+- [`bd19d788`](https://github.com/lnbits/lnbits/commit/bd19d788341fc807799110006e9b971176fdf54e) build: add POETRY_INSTALL_ARGS build argument to Dockerfile (#3149) – [@Se7enZ](https://github.com/Se7enZ)
+- [`beee24bd`](https://github.com/lnbits/lnbits/commit/beee24bd92d22dbe5b6de37768fbd37a3852330b) [feat] ui support for high number of wallets and payments (#3174) – [@Vlad Stan](https://github.com/Vlad Stan)
+- [`cbbba5c4`](https://github.com/lnbits/lnbits/commit/cbbba5c4c75f0b8d86d13dc50818c0d26515261e) fix: regtest nodemanager lndrest issue (#3166) – [@dni ⚡](https://github.com/dni ⚡)
+- [`cd8804da`](https://github.com/lnbits/lnbits/commit/cd8804dacaa499734c43137ecba8ec7ed2a056a7) chore: update to version v1.1.0 (#3157) – [@dni ⚡](https://github.com/dni ⚡)
+- [`ceb82033`](https://github.com/lnbits/lnbits/commit/ceb8203353b3d10336577505e7387acd5a77e1ae) refactor: render variables for jinja, components and window vars (#3014)
+
+Co-authored-by: Tiago Vasconcelos <talvasconcelos@gmail.com>
+Co-authored-by: Vlad Stan <stan.v.vlad@gmail.com> – [@dni ⚡](https://github.com/dni ⚡)
+- [`e4d09c6d`](https://github.com/lnbits/lnbits/commit/e4d09c6d12533172ed0eda0ca0653b899c2184ce) docs: passing vars to appimage (#3164) – [@Arc](https://github.com/Arc)
+- [`e6de66e1`](https://github.com/lnbits/lnbits/commit/e6de66e1b1e50bbe7b9e735125fb85cb8490a46c) fix: handle node absent in 1ml.com (#3180) – [@Vlad Stan](https://github.com/Vlad Stan)
+- [`efc52333`](https://github.com/lnbits/lnbits/commit/efc52333991d71a57d57aeda636c1e7bc64923cc) fix: frontend scroll area on admin settings (#3162) – [@Arc](https://github.com/Arc)
+- [`f74fcea3`](https://github.com/lnbits/lnbits/commit/f74fcea35b932deb6b5d228294595a19e801b4f9) fix: safe json conversion (#3148) – [@Vlad Stan](https://github.com/Vlad Stan)
+- [`f92ae8ba`](https://github.com/lnbits/lnbits/commit/f92ae8bae1debeb0805a1b5ed346b69eb814dc2d) doc: add time unit to `payment_wait_time` (#3144) – [@Vlad Stan](https://github.com/Vlad Stan)
 
 
 #### Extension commits between Dec 2024 - Feb 2025 (mostly preparing for v1)
