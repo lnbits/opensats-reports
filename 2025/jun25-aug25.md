@@ -483,5 +483,5 @@ c24d2f2</a> 2025-08-18 | dni ⚡ | fix: bump lnurl its not callback_url now, its
 Huge LNURL library update by DNI 🤯
 * https://github.com/lnbits/lnurl
 
-LNbits MCP by blackcoffeexbt
+LNbits MCP by blackcoffeexbt 🚀
 * https://github.com/lnbits/LNbits-MCP-Server
