@@ -1,5 +1,7 @@
 # LNbits  >_OpenSats Grant June 2025 - August 2025
 
+From a huge update to the LNURL Python library, to making it easier for people to buy/sell bitcoin from their LNbits install, LNbits and its core developers continue to provide 100,000s of users with more and more powerful tools.
+
 Thank you from all of us LNbits devs and users ❤️
 
 ## Educational stuff
