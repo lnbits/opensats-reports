@@ -61,9 +61,6 @@ c1c6225</a> 2025-09-16 | Arc | Working</br>
 ccc784c8fca2859b42aa38ff3f4f565def0b7dc7">
 ccc784c</a> 2025-09-15 | arcbtc | recuuring payments</br>
 <a href="https://github.com/lnbits/lnbits/commit/
-c05122e5fbff993f5ddff901ece69256c704af27">
-c05122e</a> 2025-09-17 | Hezron Karani | chore: reorder .env for a common block for .env only settings (#3350)</br>
-<a href="https://github.com/lnbits/lnbits/commit/
 7c72766bbd1957cb73b6a916c62bcc67ecfd2376">
 7c72766</a> 2025-09-16 | Arc | make</br>
 <a href="https://github.com/lnbits/lnbits/commit/
@@ -87,9 +84,6 @@ c054e47</a> 2025-09-13 | Arc | Updated to uv (#3360)</br>
 <a href="https://github.com/lnbits/lnbits/commit/
 ad8ff48d629179e985fe8aa8b407336f567d1648">
 ad8ff48</a> 2025-09-12 | dni ⚡ | chore: ci docker boltz temporary checkout lnbits rc</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-183b84c167122e3dd437b17e371e44fb7ee36e0c">
-183b84c</a> 2025-09-12 | dependabot[bot] | build(deps): bump axios from 1.8.2 to 1.12.0 (#3357)</br>
 <a href="https://github.com/lnbits/lnbits/commit/
 60f50a71a29d069ac004f5315c44599c913ca715">
 60f50a7</a> 2025-09-12 | Arc | feat: Adds stripe tap to pay flow for TPoS running on Android PoS/phone devices (#3334)</br>
@@ -129,9 +123,6 @@ c0b3356</a> 2025-09-10 | Vlad Stan | feat: add `search` label (#3353)</br>
 <a href="https://github.com/lnbits/lnbits/commit/
 59553a6e1ea6152a389e826bdeffe39b6947618a">
 59553a6</a> 2025-09-02 | dni ⚡ | chore: update to v1.3.0-rc6 (#3342)</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-918add5e6e108f669b74e5bdeb65ae5b268a890c">
-918add5</a> 2025-09-02 | Eric Chennells | fix: start background tasks when activating extensions at runtime (#3333)</br>
 <a href="https://github.com/lnbits/lnbits/commit/
 2375f7bcf8bde2cd6fbf28cec46e4e94fc11ac29">
 2375f7b</a> 2025-09-02 | dni ⚡ | feat: add copy, download and write NFC to qrcode components (#3335)</br>
@@ -224,137 +215,9 @@ ca8264b</a> 2025-10-30 | dni ⚡ | feat: remove nfc not supported (#3453)</br>
 2b603bdc4863fad0d46f7ac7c396aee2a18bbe47">
 2b603bd</a> 2025-10-29 | dni ⚡ | fix: add dependency-groups get rid of warning (#3454)</br>
 <a href="https://github.com/lnbits/lnbits/commit/
-26780df0657ece9880166b69c74c359facac8c1b">
-26780df</a> 2025-10-29 | Weston Keele (whisky) | nix: Re-enable and fix basic nix flake check for nix package and module (#3425)</br>
-<a href="https://github.com/lnbits/lnbits/commit/
 057902144825564e470dc650c7b1a7ef80f7c626">
 0579021</a> 2025-10-29 | Vlad Stan | chore: revert some</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-572cbed9fea2c9450e45cc314e143473b6f4655d">
-572cbed</a> 2025-10-08 | Ben Weeks | chore: remove deadlock reproduction scripts and update bundle</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-92ea26aa92f3119f1ae20b62aa194a2bc910b4fe">
-92ea26a</a> 2025-10-08 | Ben Weeks | feat: improve wallet sharing UI and rename delete to revoke</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-047069c28f388fa4b6ecdf3dac91f5e0ed7c8803">
-047069c</a> 2025-10-08 | Ben Weeks | chore: remove old documentation files</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-fcc330bc6a72eddca591a0d0fa6604081a9201bd">
-fcc330b</a> 2025-10-08 | Ben Weeks | fix: use correct screenshot path in auth-helper</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-11be2442d545d2a9c7daf9d1b56994757938dbf8">
-11be244</a> 2025-10-08 | Ben Weeks | fix: complete user_id exposure security fix and update tests</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-d8c0315f20b74531cc2310be303cdac751f1e223">
-d8c0315</a> 2025-10-07 | Ben Weeks | security: prevent user_id exposure in wallet share API responses</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-11425e56d70a192dba71f195c8be44428ea51037">
-11425e5</a> 2025-10-07 | Ben Weeks | chore: fix linting issues for CI</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-eda170c49bf5a04e1c101ff1b2c4260a59647672">
-eda170c</a> 2025-10-07 | Ben Weeks | fix: update error message to reference "Manage Shares" section</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-c24ac9ae818bc0ca00283c7bd822811123978133">
-c24ac9a</a> 2025-10-07 | Ben Weeks | docs: add database deadlock reproduction scripts and issue template</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-8b749d6734c35c9577f80a49015bb097f25d21be">
-8b749d6</a> 2025-10-07 | Ben Weeks | feat: populate usernames in wallet shares with efficient batch query</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-71289f935e113e7903a851692d00a48a20ca5762">
-71289f9</a> 2025-10-07 | Ben Weeks | chore: format code with prettier, black and ruff</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-d3d5601668143ae2ed43df07f35aa948019240f5">
-d3d5601</a> 2025-10-07 | Ben Weeks | refactor: improve wallet sharing UI with table and filters</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-54da29083041a2b9b0653966e9610f7464044099">
-54da290</a> 2025-10-07 | Ben Weeks | feat: allow re-sharing wallets with revoked/rejected/left status</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-523ea98ec8d3e553e719386215562e6d73ee606d">
-523ea98</a> 2025-10-05 | Ben Weeks | chore: fix prettier and ruff linting issues</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-463678ac91b6fb6e98dcecfd96bd00937173d127">
-463678a</a> 2025-10-05 | Ben Weeks | fix: use file modification time for static asset cache busting</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-111d8075f1911da94749acf4e46633bd3196dee4">
-111d807</a> 2025-10-04 | Ben Weeks | chore: format markdown files with prettier</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-4ed071dbad5c09998a5f333fa70af9c3254aa60c">
-4ed071d</a> 2025-10-04 | Ben Weeks | fix: only check CREATE_INVOICE permission for admin keys</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-c2dc0a968cb958e3cae6f39236f8885692465295">
-c2dc0a9</a> 2025-10-04 | Ben Weeks | fix: shorten error message to meet line length limit</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-0f27518bd6afe9501a887746d8d63cfc67a5dcb9">
-0f27518</a> 2025-10-04 | Ben Weeks | fix: only check wallet share permissions for shared wallets</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-9b10936b6d62f309a1a6b312b41f0803da75ab33">
-9b10936</a> 2025-10-04 | Ben Weeks | chore: fix prettier formatting in UI test files</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-885ce4aefbdebfb2012172ac00746c85827a3f0f">
-885ce4a</a> 2025-10-04 | Ben Weeks | feat: add security checks for shared wallet operations and UI tests</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-522fd2c9cce7105d430d36b75da675203c7b2a8a">
-522fd2c</a> 2025-10-03 | Ben Weeks | fix: format test files to pass linter checks</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-a3cc5bcde7407d6d15063dfaf91998a88037e7e1">
-a3cc5bc</a> 2025-10-03 | Ben Weeks | fix: improve API tests to create fresh wallets and handle missing config gracefully</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-fff5f13ebc434d392de164973f628059b45d8ca1">
-fff5f13</a> 2025-10-03 | Ben Weeks | fix: format code and fix API test compatibility</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-282e4bac5993375f2248f658d7477ead879dfed3">
-282e4ba</a> 2025-10-03 | Ben Weeks | fix: restrict wallet owner-only UI elements from shared users</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-46635fd03193a1df6c4a8f1f8f7722983e947c1a">
-46635fd</a> 2025-10-03 | Ben Weeks | fix: show share count badge only to users with manage permissions</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-c877a4c2fc7179dc4dd63c7e4f1b52786a91144b">
-c877a4c</a> 2025-10-03 | Ben Weeks | feat: improve wallet sharing UX with tabs and invitation controls</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-edee475c8806fc04f3b6cd8f556b2c0498e408a5">
-edee475</a> 2025-10-03 | Ben Weeks | feat: add UI permission controls and editable share permissions</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-77a97d971e4fc032b9d150f4a404544f19e6d065">
-77a97d9</a> 2025-10-03 | Ben Weeks | feat: add ability for users to leave shared wallets</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-8d7c6500e55309f4bdb2f64ff96d2b5bbe1e41b3">
-8d7c650</a> 2025-10-03 | Ben Weeks | feat: add shared wallet icons to wallet cards in rows mode</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-0d7fd9924193ddf0db7d7e41e8ef07e6bf3bae5d">
-0d7fd99</a> 2025-10-03 | Ben Weeks | feat: add visual indicators and proper ordering for shared wallets</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-f3d2f164f4bbaa2944924027868df76fb5600c6d">
-f3d2f16</a> 2025-10-03 | Ben Weeks | fix: correct parameter order in get_user_shared_wallets call</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-97835bb43e6ee1b18a9bf3f06315e65c3a4cd3af">
-97835bb</a> 2025-10-02 | Ben Weeks | chore: add .env.local and data_test to gitignore</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-3d43ac7f9e6501d858b506c06d70bfeb2a1531f4">
-3d43ac7</a> 2025-10-02 | Ben Weeks | fix: apply black, ruff, and prettier formatting</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-73a2189d1120b6bf76df7958f18246b36b9d593d">
-73a2189</a> 2025-10-02 | Ben Weeks | fix: rename test files and fix ruff linting errors</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-6c41563cc896f1f67f0eefeec969421fa91b736a">
-6c41563</a> 2025-10-02 | Ben Weeks | fix: correct screenshot paths in UI test scripts</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-6f8242ed2f58213b819bc4f923301682bfe06fed">
-6f8242e</a> 2025-10-02 | Ben Weeks | fix: add type annotations for mypy compliance</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-67451de01ecd482f88cd1fa345128278f33c179b">
-67451de</a> 2025-10-02 | Ben Weeks | feat: add wallet name and sharer info to share invitations</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-007aa9db76700d43a4dae79eb46abdb6ed722b07">
-007aa9d</a> 2025-10-02 | Ben Weeks | feat: improve wallet share invitations UI and fix service worker</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-66fb09ce122d4fe8f8cab654bc0e2dab5af4b223">
-66fb09c</a> 2025-10-02 | Ben Weeks | feat: improve wallet share UX and fix API authentication</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-a25d88ff41ba17c70ee134d188d2530b42c47030">
-a25d88f</a> 2025-10-02 | Ben Weeks | feat: improve wallet sharing UX and fix SQL queries</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-96107258de6f3c6c1495d89bee8f51510e5620fd">
-9610725</a> 2025-10-02 | Ben Weeks | feat: add shared wallets/joint accounts (Phase 1) - Issue #3297</br>
+
 <a href="https://github.com/lnbits/lnbits/commit/
 a82d2d209138cf15b5a6bd290ce03156665f32ab">
 a82d2d2</a> 2025-10-29 | Vlad Stan | feat: show invite notifications</br>
@@ -388,9 +251,6 @@ e49f07d</a> 2025-10-27 | Vlad Stan | feat: add more check for wallets</br>
 <a href="https://github.com/lnbits/lnbits/commit/
 4485eca400c8c6f9c51e4d5f5c2128fa9f2bf1c6">
 4485eca</a> 2025-10-27 | Vlad Stan | feat: add share icon to wallet</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-f794373d30e968ac7f8720bca4dc911b1e613e34">
-f794373</a> 2025-10-27 | Ben Weeks | feat: improve VoidWallet warning visibility on all devices (#3428)</br>
 <a href="https://github.com/lnbits/lnbits/commit/
 66e2f78f4ea1918289a5d51c62e875ed574c5638">
 66e2f78</a> 2025-10-24 | Vlad Stan | feat: all add wallets now have type</br>
@@ -497,9 +357,6 @@ afe08ab</a> 2025-10-17 | Vlad Stan | feat: first draft of shared wallets</br>
 b9de754598efece12bb97470ed970e2017ef040a">
 b9de754</a> 2025-10-21 | Vlad Stan | fix: exclude (soft) deleted wallets when creating an invoice (#3439)</br>
 <a href="https://github.com/lnbits/lnbits/commit/
-785fb7af8e68a3ef8b88e796355f71d415889090">
-785fb7a</a> 2025-10-21 | Ben Weeks | fix: improve mobile responsiveness for admin settings (#3431)</br>
-<a href="https://github.com/lnbits/lnbits/commit/
 8ed06e600e78492088265ee3641bc1f82754fdd8">
 8ed06e6</a> 2025-10-17 | Tiago Vasconcelos | chore: bundle</br>
 <a href="https://github.com/lnbits/lnbits/commit/
@@ -569,9 +426,6 @@ de6827a</a> 2025-10-17 | Vlad Stan | feat: add  and initialize the `payment_requ
 bdc481f6ff31bfbcd77d555947dc9692183d00c0">
 bdc481f</a> 2025-10-16 | Arc | Merge branch 'dev' into dependabot/pip/cryptography-44.0.1</br>
 <a href="https://github.com/lnbits/lnbits/commit/
-4cf9fae3e36c4d8edfe9f84543c1c4a032b2900a">
-4cf9fae</a> 2025-10-16 | Sat | feat: add batch invoice polling and persistence for StrikeWallet (#3300)</br>
-<a href="https://github.com/lnbits/lnbits/commit/
 bf06def9b7f0abda1c2f8c43f6885a2fda4257e0">
 bf06def</a> 2025-10-17 | Vlad Stan | [feat] Stripe subscription (#3369)</br>
 <a href="https://github.com/lnbits/lnbits/commit/
@@ -637,9 +491,6 @@ f8069c5</a> 2025-10-08 | Arc | Update installation.md</br>
 <a href="https://github.com/lnbits/lnbits/commit/
 a9374d509c510f47ca4919d11a1ef59b7b972efa">
 a9374d5</a> 2025-10-08 | Vlad Stan | fix: hide payment details for failed payments (#3393)</br>
-<a href="https://github.com/lnbits/lnbits/commit/
-16e80e916cd71d99053437b3f23eaf056db4b848">
-16e80e9</a> 2025-10-08 | Ben Weeks | chore: remove deadlock reproduction scripts and update bundle</br>
 <a href="https://github.com/lnbits/lnbits/commit/
 1ef7c57ade4fb01a1b65589199f055955b44c63b">
 1ef7c57</a> 2025-10-08 | Vlad Stan | feat: add  and initialize the `payment_request` field for `Payment` (#3396)</br>
