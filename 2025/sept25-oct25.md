@@ -217,7 +217,6 @@ ca8264b</a> 2025-10-30 | dni ⚡ | feat: remove nfc not supported (#3453)</br>
 <a href="https://github.com/lnbits/lnbits/commit/
 057902144825564e470dc650c7b1a7ef80f7c626">
 0579021</a> 2025-10-29 | Vlad Stan | chore: revert some</br>
-
 <a href="https://github.com/lnbits/lnbits/commit/
 a82d2d209138cf15b5a6bd290ce03156665f32ab">
 a82d2d2</a> 2025-10-29 | Vlad Stan | feat: show invite notifications</br>
