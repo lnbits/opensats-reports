@@ -1,6 +1,6 @@
 # LNbits  >_OpenSats Grant September 2025 - October 2025
 
-For the final few months of our OpenSats grant we switched from Poetry to UV creating faster builds and fixing our Nix Flake, created a beutiful cutting edge Nostr Remote Signer, added card tap-to-pay payments to TPoS (with TPoS ATM feature this unlocks OTC bitcoin selling for merchants), an incredible Extension Builder making it possible for users to build an LNbits extension in under 30mins, and a tonne of other features, fixes and updates.
+For the final few months of our OpenSats grant, we switched from Poetry to UV, resulting in faster builds and a fixed Nix Flake. We also created a beautiful, cutting-edge Nostr Remote Signer; added card tap-to-pay payments to TPoS (which, combined with the TPoS ATM feature, unlocks OTC bitcoin selling for merchants); built an incredible Extension Builder that lets users create an LNbits extension in under 30 minutes; and delivered a tonne of other features, fixes, and updates.
 
 Thank you from all of us LNbits devs and users ❤️
 
@@ -555,13 +555,11 @@ f48d24a</a> 2025-10-06 | Vlad Stan | feat:  show badge if an extension has paid 
 * https://github.com/lnbits/legend-regtest-enviroment/commits?since=2025-09-01&until=2025-11-01
 * https://github.com/lnbits/livestream/commits?since=2025-09-01&until=2025-11-01
 * https://github.com/lnbits/lnaddress/commits?since=2025-09-01&until=2025-11-01
-* https://github.com/lnbits/lnbits/commits?since=2025-09-01&until=2025-11-01
 * https://github.com/lnbits/lnbits-extensions/commits?since=2025-09-01&until=2025-11-01
 * https://github.com/lnbits/lndhub/commits?since=2025-09-01&until=2025-11-01
 * https://github.com/lnbits/lnpos_extension/commits?since=2025-09-01&until=2025-11-01
 * https://github.com/lnbits/lnurl/commits?since=2025-09-01&until=2025-11-01
 * https://github.com/lnbits/lnurlp/commits?since=2025-09-01&until=2025-11-01
-* https://github.com/lnbits/my.lnbits.com/commits?since=2025-09-01&until=2025-11-01
 * https://github.com/lnbits/myextension/commits?since=2025-09-01&until=2025-11-01
 * https://github.com/lnbits/nostr-clients-resources/commits?since=2025-09-01&until=2025-11-01
 * https://github.com/lnbits/nostr-signing-device/commits?since=2025-09-01&until=2025-11-01
@@ -572,7 +570,6 @@ f48d24a</a> 2025-10-06 | Vlad Stan | feat:  show badge if an extension has paid 
 * https://github.com/lnbits/nsec-remote-signer/commits?since=2025-09-01&until=2025-11-01
 * https://github.com/lnbits/numberlottery/commits?since=2025-09-01&until=2025-11-01
 * https://github.com/lnbits/offlineshop/commits?since=2025-09-01&until=2025-11-01
-* https://github.com/lnbits/opensats-reports/commits?since=2025-09-01&until=2025-11-01
 * https://github.com/lnbits/paidreviews/commits?since=2025-09-01&until=2025-11-01
 * https://github.com/lnbits/pay2print/commits?since=2025-09-01&until=2025-11-01
 * https://github.com/lnbits/paywall/commits?since=2025-09-01&until=2025-11-01
@@ -584,7 +581,6 @@ f48d24a</a> 2025-10-06 | Vlad Stan | feat:  show badge if an extension has paid 
 * https://github.com/lnbits/sellcoins/commits?since=2025-09-01&until=2025-11-01
 * https://github.com/lnbits/tipjar/commits?since=2025-09-01&until=2025-11-01
 * https://github.com/lnbits/tpos/commits?since=2025-09-01&until=2025-11-01
-* https://github.com/lnbits/TPoS-Stripe-Tap-to-Pay-Wrapper/commits?since=2025-09-01&until=2025-11-01
 * https://github.com/lnbits/withdraw/commits?since=2025-09-01&until=2025-11-01
 
 
@@ -597,6 +593,6 @@ f48d24a</a> 2025-10-06 | Vlad Stan | feat:  show badge if an extension has paid 
 
 ## New Hardware
 * https://github.com/lnbits/nsec-remote-signer
-  
-## Other
+* https://github.com/lnbits/TPoS-Stripe-Tap-to-Pay-Wrapper/commits?since=2025-09-01&until=2025-11-01
+
 
